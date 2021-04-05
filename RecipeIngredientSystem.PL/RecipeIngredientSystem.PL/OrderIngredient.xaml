@@ -1,0 +1,68 @@
+﻿<Window x:Class="RecipeIngredientSystem.PL.OrderIngredient"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:RecipeIngredientSystem.PL"
+        mc:Ignorable="d"
+        Title="OrderIngredient" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="9*"/>
+            <ColumnDefinition Width="538*"/>
+            <ColumnDefinition Width="244*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="9*"/>
+            <RowDefinition Height="61*"/>
+        </Grid.RowDefinitions>
+        <Image Grid.ColumnSpan="3" HorizontalAlignment="Left" Height="420" Margin="0,0,-0.4,0" VerticalAlignment="Top" Width="794" Grid.RowSpan="2" Source="jeff-sheldon-264920.jpg" Opacity="0.3"/>
+
+        <DataGrid x:Name="grid" AutoGenerateColumns="True" CanUserAddRows="True" HorizontalAlignment="Left" Height="114" Margin="12.2,39.4,0,0" VerticalAlignment="Top" Width="359" SelectionChanged="grid_SelectionChanged" Grid.Row="1" Grid.Column="1">
+            <!--<DataGrid.Columns>
+                <DataGridTemplateColumn Header="EDIT">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <Button Name="btnedit" FontSize="14" Content="Edit" Click="btnedit_Click" />
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+                <DataGridTemplateColumn Header="REMOVE">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <Button Name="btnremove" FontSize="14" Content="Remove" Click="btnremove_Click" />
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+            </DataGrid.Columns>-->
+        </DataGrid>
+        <Button x:Name="viewcartbtn" Content="View My Carts" HorizontalAlignment="Left" Margin="12.2,41,0,0" VerticalAlignment="Top" Width="252" FontSize="24" FontWeight="Bold" Click="Viewcartbtn_Click" Grid.RowSpan="2" Grid.Column="1"/>
+        <TextBox x:Name="txtusername" TextAlignment="Right" HorizontalAlignment="Left" Height="42" Margin="489.2,2,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="221" FontSize="20" BorderThickness="0" RenderTransformOrigin="0.5,0.5" Grid.Column="1" Grid.ColumnSpan="2"/>
+        <Button x:Name="orderbtn" Content="ORDER" HorizontalAlignment="Left" Margin="89.2,306,0,0" VerticalAlignment="Top" Width="109" Height="46" FontWeight="Bold" FontSize="20" Click="Orderbtn_Click" Grid.Row="1" Grid.Column="2"/>
+        <Label Content="Mobile Number" Grid.Column="1" HorizontalAlignment="Left" Margin="421.2,79,0,0" Grid.Row="1" VerticalAlignment="Top" FontSize="16" Grid.ColumnSpan="2"/>
+        <Label Content="Delivery Address" Grid.Column="1" HorizontalAlignment="Left" Margin="421.2,122,0,0" Grid.Row="1" VerticalAlignment="Top" FontSize="16" Grid.ColumnSpan="2" RenderTransformOrigin="0.482,0.899"/>
+        <Label Content="Total Amount" Grid.Column="1" HorizontalAlignment="Left" Margin="421.2,163,0,0" Grid.Row="1" VerticalAlignment="Top" FontSize="16"/>
+        <Label Content="GST" Grid.Column="1" HorizontalAlignment="Left" Margin="433.2,220.4,0,0" Grid.Row="1" VerticalAlignment="Top" FontSize="16" Visibility="Hidden"/>
+        <Label Content="Grand Total" Grid.Column="1" HorizontalAlignment="Left" Margin="421.2,242,0,0" Grid.Row="1" VerticalAlignment="Top" FontSize="16"/>
+        <TextBox x:Name="txtgst" Grid.Column="2" HorizontalAlignment="Left" Height="23" Margin="39.6,220.4,0,0" Grid.Row="1" TextWrapping="Wrap" VerticalAlignment="Top" Width="194" BorderThickness="0,0,0,1" Visibility="Hidden"/>
+        <TextBox x:Name="txtgtotal" Grid.Column="2" HorizontalAlignment="Left" Height="23" Margin="39.2,251,0,0" Grid.Row="1" TextWrapping="Wrap" VerticalAlignment="Top" Width="194" BorderThickness="0,0,0,1"/>
+        <TextBox x:Name="txttamount" Grid.Column="2" HorizontalAlignment="Left" Height="23" Margin="40.2,171,0,0" Grid.Row="1" TextWrapping="Wrap" VerticalAlignment="Top" Width="194" BorderThickness="0,0,0,1"/>
+        <TextBox x:Name="txtaddress" Grid.Column="2" HorizontalAlignment="Left" Height="23" Margin="39.2,131,0,0" Grid.Row="1" TextWrapping="Wrap" VerticalAlignment="Top" Width="194" BorderThickness="0,0,0,1"/>
+        <TextBox x:Name="txtmobilenum" PreviewTextInput="NumericOnly" Grid.Column="2" HorizontalAlignment="Left" Height="23" Margin="39.2,88,0,0" Grid.Row="1" TextWrapping="Wrap" VerticalAlignment="Top" Width="194" BorderThickness="0,0,0,1"/>
+        <Button Content="UPDATE" Grid.Column="1" HorizontalAlignment="Left" Margin="12.2,324,0,0" Grid.Row="1" VerticalAlignment="Top" Width="108" RenderTransformOrigin="0.391,0.528" FontSize="18" FontWeight="Bold" Click="Button_Click"/>
+        <TextBox x:Name="txtcartid" Grid.Column="1" HorizontalAlignment="Left" Height="23" Margin="12.2,162,0,0" Grid.Row="1" TextWrapping="Wrap" VerticalAlignment="Top" Width="97" BorderThickness="0"/>
+        <Label Content="Price" Grid.Column="1" HorizontalAlignment="Left" Margin="10.2,194.4,0,0" Grid.Row="1" VerticalAlignment="Top" FontSize="16"/>
+        <Label Content="Quantity" Grid.Column="1" HorizontalAlignment="Left" Margin="12.2,230.4,0,0" Grid.Row="1" VerticalAlignment="Top" FontSize="16"/>
+        <Label Content="Amount" Grid.Column="1" HorizontalAlignment="Left" Margin="12.2,271.4,0,0" Grid.Row="1" VerticalAlignment="Top" FontSize="16"/>
+        <TextBox x:Name="txtprice1" Grid.Column="1" HorizontalAlignment="Left" Height="23" Margin="107.2,198.4,0,0" Grid.Row="1" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="txtquantity1" Grid.Column="1" HorizontalAlignment="Left" Height="23" Margin="107.2,238.4,0,0" Grid.Row="1" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" TextChanged="txtquantity1_TextChanged"/>
+        <TextBox x:Name="txtamount1" Grid.Column="1" HorizontalAlignment="Left" Height="23" Margin="107.2,275.4,0,0" Grid.Row="1" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Button Content="DELETE" Grid.Column="1" HorizontalAlignment="Left" Margin="141.2,324,0,0" Grid.Row="1" VerticalAlignment="Top" Width="106" Height="28" FontWeight="Bold" FontSize="18" Click="Button_Click_1"/>
+        <Button x:Name="backbtn" Content="Back Page" HorizontalAlignment="Left" VerticalAlignment="Top" Width="85" FontSize="14" Click="backbtn_Click" Grid.ColumnSpan="2"/>
+        <Button x:Name="logoutbtn" Content="LOGOUT" HorizontalAlignment="Left" Margin="177.2,2,0,0" VerticalAlignment="Top" Width="58" FontWeight="Bold" Height="42" Click="logoutbtn_Click" Grid.Column="2"/>
+        <Label Content="Enter Order Details:" Grid.Column="1" HorizontalAlignment="Left" Margin="421.2,40,0,0" Grid.Row="1" VerticalAlignment="Top" Width="224" Grid.ColumnSpan="2" FontSize="18" FontWeight="Bold"/>
+        <Label Content="Other Tax" Grid.Column="1" HorizontalAlignment="Left" Margin="421.2,205,0,0" Grid.Row="1" VerticalAlignment="Top" FontSize="16"/>
+        <TextBox x:Name="txtgst1" Grid.Column="2" HorizontalAlignment="Left" Height="23" Margin="39.2,214,0,0" Grid.Row="1" TextWrapping="Wrap" VerticalAlignment="Top" Width="194" BorderThickness="0,0,0,1"/>
+
+    </Grid>
+</Window>

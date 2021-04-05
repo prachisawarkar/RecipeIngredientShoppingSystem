@@ -1,0 +1,6 @@
+F:\Capgemini\SPRINT1\RecipeIngredientSystem.PL\RecipeIngredientSystem.Exceptions\bin\Debug\RecipeIngredientSystem.Exceptions.dll
+F:\Capgemini\SPRINT1\RecipeIngredientSystem.PL\RecipeIngredientSystem.Exceptions\bin\Debug\RecipeIngredientSystem.Exceptions.pdb
+F:\Capgemini\SPRINT1\RecipeIngredientSystem.PL\RecipeIngredientSystem.Exceptions\obj\Debug\RecipeIngredientSystem.Exceptions.csprojAssemblyReference.cache
+F:\Capgemini\SPRINT1\RecipeIngredientSystem.PL\RecipeIngredientSystem.Exceptions\obj\Debug\RecipeIngredientSystem.Exceptions.csproj.CoreCompileInputs.cache
+F:\Capgemini\SPRINT1\RecipeIngredientSystem.PL\RecipeIngredientSystem.Exceptions\obj\Debug\RecipeIngredientSystem.Exceptions.dll
+F:\Capgemini\SPRINT1\RecipeIngredientSystem.PL\RecipeIngredientSystem.Exceptions\obj\Debug\RecipeIngredientSystem.Exceptions.pdb

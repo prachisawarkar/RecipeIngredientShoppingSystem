@@ -1,0 +1,567 @@
+F:\Capgemini\SPRINT1\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\bin\Debug\RecipeIngredientSystem.PL.exe.config
+F:\Capgemini\SPRINT1\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\bin\Debug\RecipeIngredientSystem.PL.exe
+F:\Capgemini\SPRINT1\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\bin\Debug\RecipeIngredientSystem.PL.pdb
+F:\Capgemini\SPRINT1\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\RecipeIngredientSystem.PL.csprojAssemblyReference.cache
+F:\Capgemini\SPRINT1\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\MainWindow.g.cs
+F:\Capgemini\SPRINT1\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\App.g.cs
+F:\Capgemini\SPRINT1\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\RecipeIngredientSystem.PL_MarkupCompile.cache
+F:\Capgemini\SPRINT1\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\RecipeIngredientSystem.PL_MarkupCompile.lref
+F:\Capgemini\SPRINT1\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\MainWindow.baml
+F:\Capgemini\SPRINT1\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\RecipeIngredientSystem.PL.g.resources
+F:\Capgemini\SPRINT1\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\RecipeIngredientSystem.PL.Properties.Resources.resources
+F:\Capgemini\SPRINT1\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\RecipeIngredientSystem.PL.csproj.GenerateResource.cache
+F:\Capgemini\SPRINT1\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\RecipeIngredientSystem.PL.csproj.CoreCompileInputs.cache
+F:\Capgemini\SPRINT1\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\RecipeIngredientSystem.PL.exe
+F:\Capgemini\SPRINT1\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\RecipeIngredientSystem.PL.pdb
+F:\Capgemini\SPRINT1\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\LoginCustomer.g.cs
+F:\Capgemini\SPRINT1\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\LoginCustomer.baml
+F:\Capgemini\SPRINT1\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\AddToCart.g.cs
+F:\Capgemini\SPRINT1\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\AddToCart.baml
+F:\Capgemini\SPRINT1\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\OrderIngredient.g.cs
+F:\Capgemini\SPRINT1\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\OrderIngredient.baml
+F:\Capgemini\SPRINT1\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\ShippingDetails.g.cs
+F:\Capgemini\SPRINT1\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\ShippingDetails.baml
+F:\Capgemini\SPRINT1\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\bin\Debug\RecipeIngredientSystem.Entities.dll
+F:\Capgemini\SPRINT1\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\bin\Debug\RecipeIngredientSystem.Entities.pdb
+F:\Capgemini\SPRINT1\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\RecipeIngredientSystem.PL.csproj.CopyComplete
+F:\Capgemini\SPRINT1\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\bin\Debug\RecipeIngredientSystem.BL.dll
+F:\Capgemini\SPRINT1\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\bin\Debug\RecipeIngredientSystem.Exceptions.dll
+F:\Capgemini\SPRINT1\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\bin\Debug\RecipeIngredientSystem.DAL.dll
+F:\Capgemini\SPRINT1\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\bin\Debug\RecipeIngredientSystem.BL.pdb
+F:\Capgemini\SPRINT1\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\bin\Debug\RecipeIngredientSystem.Exceptions.pdb
+F:\Capgemini\SPRINT1\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\bin\Debug\RecipeIngredientSystem.DAL.pdb
+F:\Capgemini\SPRINT1\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\bin\Debug\RecipeIngredientSystem.DAL.dll.config
+F:\Capgemini\SPRINT1\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\AdminChangePassword.g.cs
+F:\Capgemini\SPRINT1\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\AdminForgotPassword.g.cs
+F:\Capgemini\SPRINT1\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\AdminRegistration.g.cs
+F:\Capgemini\SPRINT1\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\AdminShipping.g.cs
+F:\Capgemini\SPRINT1\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\AdminViewOrder.g.cs
+F:\Capgemini\SPRINT1\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\CustomerChangePassword.g.cs
+F:\Capgemini\SPRINT1\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\CustomerForgotPassword.g.cs
+F:\Capgemini\SPRINT1\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\CustomerRegistration.g.cs
+F:\Capgemini\SPRINT1\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\Login.g.cs
+F:\Capgemini\SPRINT1\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\LoginAdmin.g.cs
+F:\Capgemini\SPRINT1\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\Registration.g.cs
+F:\Capgemini\SPRINT1\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\AdminChangePassword.baml
+F:\Capgemini\SPRINT1\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\AdminForgotPassword.baml
+F:\Capgemini\SPRINT1\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\AdminRegistration.baml
+F:\Capgemini\SPRINT1\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\AdminShipping.baml
+F:\Capgemini\SPRINT1\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\AdminViewOrder.baml
+F:\Capgemini\SPRINT1\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\CustomerChangePassword.baml
+F:\Capgemini\SPRINT1\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\CustomerForgotPassword.baml
+F:\Capgemini\SPRINT1\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\CustomerRegistration.baml
+F:\Capgemini\SPRINT1\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\Login.baml
+F:\Capgemini\SPRINT1\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\LoginAdmin.baml
+F:\Capgemini\SPRINT1\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\Registration.baml
+F:\Capgemini\SPRINT1\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\AdminAddRecipe.g.cs
+F:\Capgemini\SPRINT1\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\AdminIngredientManagement.g.cs
+F:\Capgemini\SPRINT1\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\AdminMenu.g.cs
+F:\Capgemini\SPRINT1\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\SelectRecipe.g.cs
+F:\Capgemini\SPRINT1\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\AdminAddRecipe.baml
+F:\Capgemini\SPRINT1\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\AdminIngredientManagement.baml
+F:\Capgemini\SPRINT1\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\AdminMenu.baml
+F:\Capgemini\SPRINT1\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\SelectRecipe.baml
+C:\Users\Vijju\Desktop\Prachi\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\bin\Debug\RecipeIngredientSystem.PL.exe.config
+C:\Users\Vijju\Desktop\Prachi\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\bin\Debug\RecipeIngredientSystem.PL.exe
+C:\Users\Vijju\Desktop\Prachi\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\bin\Debug\RecipeIngredientSystem.PL.pdb
+C:\Users\Vijju\Desktop\Prachi\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\bin\Debug\RecipeIngredientSystem.BL.dll
+C:\Users\Vijju\Desktop\Prachi\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\bin\Debug\RecipeIngredientSystem.Entities.dll
+C:\Users\Vijju\Desktop\Prachi\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\bin\Debug\RecipeIngredientSystem.Exceptions.dll
+C:\Users\Vijju\Desktop\Prachi\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\bin\Debug\RecipeIngredientSystem.DAL.dll
+C:\Users\Vijju\Desktop\Prachi\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\bin\Debug\RecipeIngredientSystem.BL.pdb
+C:\Users\Vijju\Desktop\Prachi\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\bin\Debug\RecipeIngredientSystem.Entities.pdb
+C:\Users\Vijju\Desktop\Prachi\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\bin\Debug\RecipeIngredientSystem.Exceptions.pdb
+C:\Users\Vijju\Desktop\Prachi\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\bin\Debug\RecipeIngredientSystem.DAL.pdb
+C:\Users\Vijju\Desktop\Prachi\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\bin\Debug\RecipeIngredientSystem.DAL.dll.config
+C:\Users\Vijju\Desktop\Prachi\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\RecipeIngredientSystem.PL.csprojAssemblyReference.cache
+C:\Users\Vijju\Desktop\Prachi\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\AddToCart.g.cs
+C:\Users\Vijju\Desktop\Prachi\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\AdminAddRecipe.g.cs
+C:\Users\Vijju\Desktop\Prachi\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\AdminChangePassword.g.cs
+C:\Users\Vijju\Desktop\Prachi\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\AdminForgotPassword.g.cs
+C:\Users\Vijju\Desktop\Prachi\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\AdminIngredientManagement.g.cs
+C:\Users\Vijju\Desktop\Prachi\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\AdminMenu.g.cs
+C:\Users\Vijju\Desktop\Prachi\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\AdminRegistration.g.cs
+C:\Users\Vijju\Desktop\Prachi\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\AdminShipping.g.cs
+C:\Users\Vijju\Desktop\Prachi\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\AdminViewOrder.g.cs
+C:\Users\Vijju\Desktop\Prachi\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\CustomerChangePassword.g.cs
+C:\Users\Vijju\Desktop\Prachi\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\CustomerForgotPassword.g.cs
+C:\Users\Vijju\Desktop\Prachi\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\CustomerRegistration.g.cs
+C:\Users\Vijju\Desktop\Prachi\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\Login.g.cs
+C:\Users\Vijju\Desktop\Prachi\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\LoginAdmin.g.cs
+C:\Users\Vijju\Desktop\Prachi\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\LoginCustomer.g.cs
+C:\Users\Vijju\Desktop\Prachi\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\MainWindow.g.cs
+C:\Users\Vijju\Desktop\Prachi\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\OrderIngredient.g.cs
+C:\Users\Vijju\Desktop\Prachi\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\Registration.g.cs
+C:\Users\Vijju\Desktop\Prachi\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\SelectRecipe.g.cs
+C:\Users\Vijju\Desktop\Prachi\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\ShippingDetails.g.cs
+C:\Users\Vijju\Desktop\Prachi\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\App.g.cs
+C:\Users\Vijju\Desktop\Prachi\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\RecipeIngredientSystem.PL_MarkupCompile.cache
+C:\Users\Vijju\Desktop\Prachi\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\RecipeIngredientSystem.PL_MarkupCompile.lref
+C:\Users\Vijju\Desktop\Prachi\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\AddToCart.baml
+C:\Users\Vijju\Desktop\Prachi\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\AdminAddRecipe.baml
+C:\Users\Vijju\Desktop\Prachi\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\AdminChangePassword.baml
+C:\Users\Vijju\Desktop\Prachi\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\AdminForgotPassword.baml
+C:\Users\Vijju\Desktop\Prachi\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\AdminIngredientManagement.baml
+C:\Users\Vijju\Desktop\Prachi\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\AdminMenu.baml
+C:\Users\Vijju\Desktop\Prachi\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\AdminRegistration.baml
+C:\Users\Vijju\Desktop\Prachi\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\AdminShipping.baml
+C:\Users\Vijju\Desktop\Prachi\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\AdminViewOrder.baml
+C:\Users\Vijju\Desktop\Prachi\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\CustomerChangePassword.baml
+C:\Users\Vijju\Desktop\Prachi\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\CustomerForgotPassword.baml
+C:\Users\Vijju\Desktop\Prachi\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\CustomerRegistration.baml
+C:\Users\Vijju\Desktop\Prachi\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\Login.baml
+C:\Users\Vijju\Desktop\Prachi\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\LoginAdmin.baml
+C:\Users\Vijju\Desktop\Prachi\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\LoginCustomer.baml
+C:\Users\Vijju\Desktop\Prachi\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\MainWindow.baml
+C:\Users\Vijju\Desktop\Prachi\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\OrderIngredient.baml
+C:\Users\Vijju\Desktop\Prachi\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\Registration.baml
+C:\Users\Vijju\Desktop\Prachi\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\SelectRecipe.baml
+C:\Users\Vijju\Desktop\Prachi\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\ShippingDetails.baml
+C:\Users\Vijju\Desktop\Prachi\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\RecipeIngredientSystem.PL.g.resources
+C:\Users\Vijju\Desktop\Prachi\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\RecipeIngredientSystem.PL.Properties.Resources.resources
+C:\Users\Vijju\Desktop\Prachi\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\RecipeIngredientSystem.PL.csproj.GenerateResource.cache
+C:\Users\Vijju\Desktop\Prachi\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\RecipeIngredientSystem.PL.csproj.CoreCompileInputs.cache
+C:\Users\Vijju\Desktop\Prachi\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\RecipeIngredientSystem.PL.csproj.CopyComplete
+C:\Users\Vijju\Desktop\Prachi\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\RecipeIngredientSystem.PL.exe
+C:\Users\Vijju\Desktop\Prachi\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\RecipeIngredientSystem.PL.pdb
+C:\Users\DHOR\Desktop\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\bin\Debug\RecipeIngredientSystem.PL.exe.config
+C:\Users\DHOR\Desktop\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\bin\Debug\RecipeIngredientSystem.PL.exe
+C:\Users\DHOR\Desktop\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\bin\Debug\RecipeIngredientSystem.PL.pdb
+C:\Users\DHOR\Desktop\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\bin\Debug\RecipeIngredientSystem.BL.dll
+C:\Users\DHOR\Desktop\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\bin\Debug\RecipeIngredientSystem.Entities.dll
+C:\Users\DHOR\Desktop\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\bin\Debug\RecipeIngredientSystem.Exceptions.dll
+C:\Users\DHOR\Desktop\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\bin\Debug\RecipeIngredientSystem.DAL.dll
+C:\Users\DHOR\Desktop\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\bin\Debug\RecipeIngredientSystem.BL.pdb
+C:\Users\DHOR\Desktop\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\bin\Debug\RecipeIngredientSystem.Entities.pdb
+C:\Users\DHOR\Desktop\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\bin\Debug\RecipeIngredientSystem.Exceptions.pdb
+C:\Users\DHOR\Desktop\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\bin\Debug\RecipeIngredientSystem.DAL.pdb
+C:\Users\DHOR\Desktop\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\bin\Debug\RecipeIngredientSystem.DAL.dll.config
+C:\Users\DHOR\Desktop\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\RecipeIngredientSystem.PL.csprojAssemblyReference.cache
+C:\Users\DHOR\Desktop\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\AddToCart.g.cs
+C:\Users\DHOR\Desktop\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\AdminAddRecipe.g.cs
+C:\Users\DHOR\Desktop\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\AdminChangePassword.g.cs
+C:\Users\DHOR\Desktop\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\AdminForgotPassword.g.cs
+C:\Users\DHOR\Desktop\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\AdminIngredientManagement.g.cs
+C:\Users\DHOR\Desktop\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\AdminMenu.g.cs
+C:\Users\DHOR\Desktop\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\AdminRegistration.g.cs
+C:\Users\DHOR\Desktop\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\AdminShipping.g.cs
+C:\Users\DHOR\Desktop\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\AdminViewOrder.g.cs
+C:\Users\DHOR\Desktop\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\CustomerChangePassword.g.cs
+C:\Users\DHOR\Desktop\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\CustomerForgotPassword.g.cs
+C:\Users\DHOR\Desktop\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\CustomerRegistration.g.cs
+C:\Users\DHOR\Desktop\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\Login.g.cs
+C:\Users\DHOR\Desktop\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\LoginAdmin.g.cs
+C:\Users\DHOR\Desktop\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\LoginCustomer.g.cs
+C:\Users\DHOR\Desktop\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\MainWindow.g.cs
+C:\Users\DHOR\Desktop\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\OrderIngredient.g.cs
+C:\Users\DHOR\Desktop\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\Registration.g.cs
+C:\Users\DHOR\Desktop\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\SelectRecipe.g.cs
+C:\Users\DHOR\Desktop\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\ShippingDetails.g.cs
+C:\Users\DHOR\Desktop\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\App.g.cs
+C:\Users\DHOR\Desktop\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\RecipeIngredientSystem.PL_MarkupCompile.cache
+C:\Users\DHOR\Desktop\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\RecipeIngredientSystem.PL_MarkupCompile.lref
+C:\Users\DHOR\Desktop\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\AddToCart.baml
+C:\Users\DHOR\Desktop\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\AdminAddRecipe.baml
+C:\Users\DHOR\Desktop\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\AdminChangePassword.baml
+C:\Users\DHOR\Desktop\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\AdminForgotPassword.baml
+C:\Users\DHOR\Desktop\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\AdminIngredientManagement.baml
+C:\Users\DHOR\Desktop\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\AdminMenu.baml
+C:\Users\DHOR\Desktop\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\AdminRegistration.baml
+C:\Users\DHOR\Desktop\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\AdminShipping.baml
+C:\Users\DHOR\Desktop\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\AdminViewOrder.baml
+C:\Users\DHOR\Desktop\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\CustomerChangePassword.baml
+C:\Users\DHOR\Desktop\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\CustomerForgotPassword.baml
+C:\Users\DHOR\Desktop\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\CustomerRegistration.baml
+C:\Users\DHOR\Desktop\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\Login.baml
+C:\Users\DHOR\Desktop\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\LoginAdmin.baml
+C:\Users\DHOR\Desktop\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\LoginCustomer.baml
+C:\Users\DHOR\Desktop\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\MainWindow.baml
+C:\Users\DHOR\Desktop\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\OrderIngredient.baml
+C:\Users\DHOR\Desktop\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\Registration.baml
+C:\Users\DHOR\Desktop\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\SelectRecipe.baml
+C:\Users\DHOR\Desktop\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\ShippingDetails.baml
+C:\Users\DHOR\Desktop\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\RecipeIngredientSystem.PL.g.resources
+C:\Users\DHOR\Desktop\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\RecipeIngredientSystem.PL.Properties.Resources.resources
+C:\Users\DHOR\Desktop\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\RecipeIngredientSystem.PL.csproj.GenerateResource.cache
+C:\Users\DHOR\Desktop\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\RecipeIngredientSystem.PL.csproj.CoreCompileInputs.cache
+C:\Users\DHOR\Desktop\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\RecipeIngredientSystem.PL.csproj.CopyComplete
+C:\Users\DHOR\Desktop\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\RecipeIngredientSystem.PL.exe
+C:\Users\DHOR\Desktop\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\RecipeIngredientSystem.PL.pdb
+C:\Users\Vijju\Desktop\SPRINT 1\Sakshi\New folder\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\RecipeIngredientSystem.PL.csprojAssemblyReference.cache
+C:\Users\Vijju\Desktop\SPRINT 1\Sakshi\New folder\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\AddToCart.g.cs
+C:\Users\Vijju\Desktop\SPRINT 1\Sakshi\New folder\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\AdminAddRecipe.g.cs
+C:\Users\Vijju\Desktop\SPRINT 1\Sakshi\New folder\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\AdminChangePassword.g.cs
+C:\Users\Vijju\Desktop\SPRINT 1\Sakshi\New folder\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\AdminForgotPassword.g.cs
+C:\Users\Vijju\Desktop\SPRINT 1\Sakshi\New folder\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\AdminIngredientManagement.g.cs
+C:\Users\Vijju\Desktop\SPRINT 1\Sakshi\New folder\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\AdminMenu.g.cs
+C:\Users\Vijju\Desktop\SPRINT 1\Sakshi\New folder\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\AdminRegistration.g.cs
+C:\Users\Vijju\Desktop\SPRINT 1\Sakshi\New folder\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\AdminShipping.g.cs
+C:\Users\Vijju\Desktop\SPRINT 1\Sakshi\New folder\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\AdminViewOrder.g.cs
+C:\Users\Vijju\Desktop\SPRINT 1\Sakshi\New folder\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\CustomerChangePassword.g.cs
+C:\Users\Vijju\Desktop\SPRINT 1\Sakshi\New folder\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\CustomerForgotPassword.g.cs
+C:\Users\Vijju\Desktop\SPRINT 1\Sakshi\New folder\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\CustomerRegistration.g.cs
+C:\Users\Vijju\Desktop\SPRINT 1\Sakshi\New folder\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\Login.g.cs
+C:\Users\Vijju\Desktop\SPRINT 1\Sakshi\New folder\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\LoginAdmin.g.cs
+C:\Users\Vijju\Desktop\SPRINT 1\Sakshi\New folder\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\LoginCustomer.g.cs
+C:\Users\Vijju\Desktop\SPRINT 1\Sakshi\New folder\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\MainWindow.g.cs
+C:\Users\Vijju\Desktop\SPRINT 1\Sakshi\New folder\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\OrderIngredient.g.cs
+C:\Users\Vijju\Desktop\SPRINT 1\Sakshi\New folder\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\Registration.g.cs
+C:\Users\Vijju\Desktop\SPRINT 1\Sakshi\New folder\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\SelectRecipe.g.cs
+C:\Users\Vijju\Desktop\SPRINT 1\Sakshi\New folder\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\ShippingDetails.g.cs
+C:\Users\Vijju\Desktop\SPRINT 1\Sakshi\New folder\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\App.g.cs
+C:\Users\Vijju\Desktop\SPRINT 1\Sakshi\New folder\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\RecipeIngredientSystem.PL_MarkupCompile.cache
+C:\Users\Vijju\Desktop\SPRINT 1\Sakshi\New folder\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\RecipeIngredientSystem.PL_MarkupCompile.lref
+C:\Users\Vijju\Desktop\SPRINT 1\Sakshi\New folder\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\RecipeIngredientSystem.PL.exe
+C:\Users\Vijju\Desktop\SPRINT 1\Sakshi\New folder\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\RecipeIngredientSystem.PL.pdb
+C:\Users\Vijju\Desktop\SPRINT 1\Sakshi\New folder\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\bin\Debug\RecipeIngredientSystem.PL.exe.config
+C:\Users\Vijju\Desktop\SPRINT 1\Sakshi\New folder\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\bin\Debug\RecipeIngredientSystem.PL.exe
+C:\Users\Vijju\Desktop\SPRINT 1\Sakshi\New folder\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\bin\Debug\RecipeIngredientSystem.PL.pdb
+C:\Users\Vijju\Desktop\SPRINT 1\Sakshi\New folder\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\bin\Debug\RecipeIngredientSystem.BL.dll
+C:\Users\Vijju\Desktop\SPRINT 1\Sakshi\New folder\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\bin\Debug\RecipeIngredientSystem.Entities.dll
+C:\Users\Vijju\Desktop\SPRINT 1\Sakshi\New folder\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\bin\Debug\RecipeIngredientSystem.Exceptions.dll
+C:\Users\Vijju\Desktop\SPRINT 1\Sakshi\New folder\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\bin\Debug\RecipeIngredientSystem.DAL.dll
+C:\Users\Vijju\Desktop\SPRINT 1\Sakshi\New folder\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\bin\Debug\RecipeIngredientSystem.BL.pdb
+C:\Users\Vijju\Desktop\SPRINT 1\Sakshi\New folder\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\bin\Debug\RecipeIngredientSystem.Entities.pdb
+C:\Users\Vijju\Desktop\SPRINT 1\Sakshi\New folder\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\bin\Debug\RecipeIngredientSystem.Exceptions.pdb
+C:\Users\Vijju\Desktop\SPRINT 1\Sakshi\New folder\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\bin\Debug\RecipeIngredientSystem.DAL.pdb
+C:\Users\Vijju\Desktop\SPRINT 1\Sakshi\New folder\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\bin\Debug\RecipeIngredientSystem.DAL.dll.config
+C:\Users\Vijju\Desktop\SPRINT 1\Sakshi\New folder\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\AddToCart.baml
+C:\Users\Vijju\Desktop\SPRINT 1\Sakshi\New folder\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\AdminAddRecipe.baml
+C:\Users\Vijju\Desktop\SPRINT 1\Sakshi\New folder\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\AdminChangePassword.baml
+C:\Users\Vijju\Desktop\SPRINT 1\Sakshi\New folder\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\AdminForgotPassword.baml
+C:\Users\Vijju\Desktop\SPRINT 1\Sakshi\New folder\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\AdminIngredientManagement.baml
+C:\Users\Vijju\Desktop\SPRINT 1\Sakshi\New folder\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\AdminMenu.baml
+C:\Users\Vijju\Desktop\SPRINT 1\Sakshi\New folder\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\AdminRegistration.baml
+C:\Users\Vijju\Desktop\SPRINT 1\Sakshi\New folder\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\AdminShipping.baml
+C:\Users\Vijju\Desktop\SPRINT 1\Sakshi\New folder\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\AdminViewOrder.baml
+C:\Users\Vijju\Desktop\SPRINT 1\Sakshi\New folder\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\CustomerChangePassword.baml
+C:\Users\Vijju\Desktop\SPRINT 1\Sakshi\New folder\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\CustomerForgotPassword.baml
+C:\Users\Vijju\Desktop\SPRINT 1\Sakshi\New folder\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\CustomerRegistration.baml
+C:\Users\Vijju\Desktop\SPRINT 1\Sakshi\New folder\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\Login.baml
+C:\Users\Vijju\Desktop\SPRINT 1\Sakshi\New folder\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\LoginAdmin.baml
+C:\Users\Vijju\Desktop\SPRINT 1\Sakshi\New folder\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\LoginCustomer.baml
+C:\Users\Vijju\Desktop\SPRINT 1\Sakshi\New folder\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\MainWindow.baml
+C:\Users\Vijju\Desktop\SPRINT 1\Sakshi\New folder\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\OrderIngredient.baml
+C:\Users\Vijju\Desktop\SPRINT 1\Sakshi\New folder\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\Registration.baml
+C:\Users\Vijju\Desktop\SPRINT 1\Sakshi\New folder\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\SelectRecipe.baml
+C:\Users\Vijju\Desktop\SPRINT 1\Sakshi\New folder\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\ShippingDetails.baml
+C:\Users\Vijju\Desktop\SPRINT 1\Sakshi\New folder\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\RecipeIngredientSystem.PL.g.resources
+C:\Users\Vijju\Desktop\SPRINT 1\Sakshi\New folder\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\RecipeIngredientSystem.PL.Properties.Resources.resources
+C:\Users\Vijju\Desktop\SPRINT 1\Sakshi\New folder\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\RecipeIngredientSystem.PL.csproj.GenerateResource.cache
+C:\Users\Vijju\Desktop\SPRINT 1\Sakshi\New folder\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\RecipeIngredientSystem.PL.csproj.CoreCompileInputs.cache
+C:\Users\Vijju\Desktop\SPRINT 1\Sakshi\New folder\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\RecipeIngredientSystem.PL.csproj.CopyComplete
+F:\Capgemini\SPRINT1\Final Project\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\bin\Debug\RecipeIngredientSystem.PL.exe.config
+F:\Capgemini\SPRINT1\Final Project\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\bin\Debug\RecipeIngredientSystem.PL.exe
+F:\Capgemini\SPRINT1\Final Project\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\bin\Debug\RecipeIngredientSystem.PL.pdb
+F:\Capgemini\SPRINT1\Final Project\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\bin\Debug\RecipeIngredientSystem.BL.dll
+F:\Capgemini\SPRINT1\Final Project\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\bin\Debug\RecipeIngredientSystem.Entities.dll
+F:\Capgemini\SPRINT1\Final Project\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\bin\Debug\RecipeIngredientSystem.Exceptions.dll
+F:\Capgemini\SPRINT1\Final Project\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\bin\Debug\RecipeIngredientSystem.DAL.dll
+F:\Capgemini\SPRINT1\Final Project\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\bin\Debug\RecipeIngredientSystem.BL.pdb
+F:\Capgemini\SPRINT1\Final Project\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\bin\Debug\RecipeIngredientSystem.Entities.pdb
+F:\Capgemini\SPRINT1\Final Project\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\bin\Debug\RecipeIngredientSystem.Exceptions.pdb
+F:\Capgemini\SPRINT1\Final Project\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\bin\Debug\RecipeIngredientSystem.DAL.pdb
+F:\Capgemini\SPRINT1\Final Project\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\bin\Debug\RecipeIngredientSystem.DAL.dll.config
+F:\Capgemini\SPRINT1\Final Project\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\RecipeIngredientSystem.PL.csprojAssemblyReference.cache
+F:\Capgemini\SPRINT1\Final Project\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\AddToCart.g.cs
+F:\Capgemini\SPRINT1\Final Project\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\AdminAddRecipe.g.cs
+F:\Capgemini\SPRINT1\Final Project\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\AdminChangePassword.g.cs
+F:\Capgemini\SPRINT1\Final Project\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\AdminForgotPassword.g.cs
+F:\Capgemini\SPRINT1\Final Project\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\AdminIngredientManagement.g.cs
+F:\Capgemini\SPRINT1\Final Project\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\AdminMenu.g.cs
+F:\Capgemini\SPRINT1\Final Project\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\AdminRegistration.g.cs
+F:\Capgemini\SPRINT1\Final Project\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\AdminShipping.g.cs
+F:\Capgemini\SPRINT1\Final Project\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\AdminViewOrder.g.cs
+F:\Capgemini\SPRINT1\Final Project\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\CustomerChangePassword.g.cs
+F:\Capgemini\SPRINT1\Final Project\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\CustomerForgotPassword.g.cs
+F:\Capgemini\SPRINT1\Final Project\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\CustomerRegistration.g.cs
+F:\Capgemini\SPRINT1\Final Project\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\Login.g.cs
+F:\Capgemini\SPRINT1\Final Project\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\LoginAdmin.g.cs
+F:\Capgemini\SPRINT1\Final Project\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\LoginCustomer.g.cs
+F:\Capgemini\SPRINT1\Final Project\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\MainWindow.g.cs
+F:\Capgemini\SPRINT1\Final Project\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\OrderIngredient.g.cs
+F:\Capgemini\SPRINT1\Final Project\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\Registration.g.cs
+F:\Capgemini\SPRINT1\Final Project\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\SelectRecipe.g.cs
+F:\Capgemini\SPRINT1\Final Project\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\ShippingDetails.g.cs
+F:\Capgemini\SPRINT1\Final Project\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\App.g.cs
+F:\Capgemini\SPRINT1\Final Project\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\RecipeIngredientSystem.PL_MarkupCompile.cache
+F:\Capgemini\SPRINT1\Final Project\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\RecipeIngredientSystem.PL_MarkupCompile.lref
+F:\Capgemini\SPRINT1\Final Project\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\AddToCart.baml
+F:\Capgemini\SPRINT1\Final Project\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\AdminAddRecipe.baml
+F:\Capgemini\SPRINT1\Final Project\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\AdminChangePassword.baml
+F:\Capgemini\SPRINT1\Final Project\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\AdminForgotPassword.baml
+F:\Capgemini\SPRINT1\Final Project\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\AdminIngredientManagement.baml
+F:\Capgemini\SPRINT1\Final Project\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\AdminMenu.baml
+F:\Capgemini\SPRINT1\Final Project\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\AdminRegistration.baml
+F:\Capgemini\SPRINT1\Final Project\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\AdminShipping.baml
+F:\Capgemini\SPRINT1\Final Project\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\AdminViewOrder.baml
+F:\Capgemini\SPRINT1\Final Project\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\CustomerChangePassword.baml
+F:\Capgemini\SPRINT1\Final Project\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\CustomerForgotPassword.baml
+F:\Capgemini\SPRINT1\Final Project\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\CustomerRegistration.baml
+F:\Capgemini\SPRINT1\Final Project\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\Login.baml
+F:\Capgemini\SPRINT1\Final Project\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\LoginAdmin.baml
+F:\Capgemini\SPRINT1\Final Project\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\LoginCustomer.baml
+F:\Capgemini\SPRINT1\Final Project\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\MainWindow.baml
+F:\Capgemini\SPRINT1\Final Project\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\OrderIngredient.baml
+F:\Capgemini\SPRINT1\Final Project\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\Registration.baml
+F:\Capgemini\SPRINT1\Final Project\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\SelectRecipe.baml
+F:\Capgemini\SPRINT1\Final Project\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\ShippingDetails.baml
+F:\Capgemini\SPRINT1\Final Project\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\RecipeIngredientSystem.PL.g.resources
+F:\Capgemini\SPRINT1\Final Project\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\RecipeIngredientSystem.PL.Properties.Resources.resources
+F:\Capgemini\SPRINT1\Final Project\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\RecipeIngredientSystem.PL.csproj.GenerateResource.cache
+F:\Capgemini\SPRINT1\Final Project\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\RecipeIngredientSystem.PL.csproj.CoreCompileInputs.cache
+F:\Capgemini\SPRINT1\Final Project\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\RecipeIngredientSystem.PL.csproj.CopyComplete
+F:\Capgemini\SPRINT1\Final Project\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\RecipeIngredientSystem.PL.exe
+F:\Capgemini\SPRINT1\Final Project\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\RecipeIngredientSystem.PL.pdb
+C:\Users\Vijju\Desktop\SPRINT 1\prachi\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\bin\Debug\RecipeIngredientSystem.PL.exe.config
+C:\Users\Vijju\Desktop\SPRINT 1\prachi\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\bin\Debug\RecipeIngredientSystem.PL.exe
+C:\Users\Vijju\Desktop\SPRINT 1\prachi\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\bin\Debug\RecipeIngredientSystem.PL.pdb
+C:\Users\Vijju\Desktop\SPRINT 1\prachi\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\bin\Debug\RecipeIngredientSystem.BL.dll
+C:\Users\Vijju\Desktop\SPRINT 1\prachi\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\bin\Debug\RecipeIngredientSystem.Entities.dll
+C:\Users\Vijju\Desktop\SPRINT 1\prachi\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\bin\Debug\RecipeIngredientSystem.Exceptions.dll
+C:\Users\Vijju\Desktop\SPRINT 1\prachi\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\bin\Debug\RecipeIngredientSystem.DAL.dll
+C:\Users\Vijju\Desktop\SPRINT 1\prachi\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\bin\Debug\RecipeIngredientSystem.BL.pdb
+C:\Users\Vijju\Desktop\SPRINT 1\prachi\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\bin\Debug\RecipeIngredientSystem.Entities.pdb
+C:\Users\Vijju\Desktop\SPRINT 1\prachi\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\bin\Debug\RecipeIngredientSystem.Exceptions.pdb
+C:\Users\Vijju\Desktop\SPRINT 1\prachi\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\bin\Debug\RecipeIngredientSystem.DAL.pdb
+C:\Users\Vijju\Desktop\SPRINT 1\prachi\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\bin\Debug\RecipeIngredientSystem.DAL.dll.config
+C:\Users\Vijju\Desktop\SPRINT 1\prachi\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\RecipeIngredientSystem.PL.csprojAssemblyReference.cache
+C:\Users\Vijju\Desktop\SPRINT 1\prachi\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\AddToCart.g.cs
+C:\Users\Vijju\Desktop\SPRINT 1\prachi\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\AdminAddRecipe.g.cs
+C:\Users\Vijju\Desktop\SPRINT 1\prachi\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\AdminChangePassword.g.cs
+C:\Users\Vijju\Desktop\SPRINT 1\prachi\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\AdminForgotPassword.g.cs
+C:\Users\Vijju\Desktop\SPRINT 1\prachi\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\AdminIngredientManagement.g.cs
+C:\Users\Vijju\Desktop\SPRINT 1\prachi\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\AdminMenu.g.cs
+C:\Users\Vijju\Desktop\SPRINT 1\prachi\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\AdminRegistration.g.cs
+C:\Users\Vijju\Desktop\SPRINT 1\prachi\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\AdminShipping.g.cs
+C:\Users\Vijju\Desktop\SPRINT 1\prachi\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\AdminViewOrder.g.cs
+C:\Users\Vijju\Desktop\SPRINT 1\prachi\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\CustomerChangePassword.g.cs
+C:\Users\Vijju\Desktop\SPRINT 1\prachi\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\CustomerForgotPassword.g.cs
+C:\Users\Vijju\Desktop\SPRINT 1\prachi\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\CustomerRegistration.g.cs
+C:\Users\Vijju\Desktop\SPRINT 1\prachi\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\Login.g.cs
+C:\Users\Vijju\Desktop\SPRINT 1\prachi\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\LoginAdmin.g.cs
+C:\Users\Vijju\Desktop\SPRINT 1\prachi\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\LoginCustomer.g.cs
+C:\Users\Vijju\Desktop\SPRINT 1\prachi\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\MainWindow.g.cs
+C:\Users\Vijju\Desktop\SPRINT 1\prachi\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\OrderIngredient.g.cs
+C:\Users\Vijju\Desktop\SPRINT 1\prachi\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\Registration.g.cs
+C:\Users\Vijju\Desktop\SPRINT 1\prachi\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\SelectRecipe.g.cs
+C:\Users\Vijju\Desktop\SPRINT 1\prachi\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\ShippingDetails.g.cs
+C:\Users\Vijju\Desktop\SPRINT 1\prachi\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\App.g.cs
+C:\Users\Vijju\Desktop\SPRINT 1\prachi\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\RecipeIngredientSystem.PL_MarkupCompile.cache
+C:\Users\Vijju\Desktop\SPRINT 1\prachi\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\RecipeIngredientSystem.PL_MarkupCompile.lref
+C:\Users\Vijju\Desktop\SPRINT 1\prachi\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\AddToCart.baml
+C:\Users\Vijju\Desktop\SPRINT 1\prachi\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\AdminAddRecipe.baml
+C:\Users\Vijju\Desktop\SPRINT 1\prachi\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\AdminChangePassword.baml
+C:\Users\Vijju\Desktop\SPRINT 1\prachi\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\AdminForgotPassword.baml
+C:\Users\Vijju\Desktop\SPRINT 1\prachi\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\AdminIngredientManagement.baml
+C:\Users\Vijju\Desktop\SPRINT 1\prachi\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\AdminMenu.baml
+C:\Users\Vijju\Desktop\SPRINT 1\prachi\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\AdminRegistration.baml
+C:\Users\Vijju\Desktop\SPRINT 1\prachi\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\AdminShipping.baml
+C:\Users\Vijju\Desktop\SPRINT 1\prachi\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\AdminViewOrder.baml
+C:\Users\Vijju\Desktop\SPRINT 1\prachi\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\CustomerChangePassword.baml
+C:\Users\Vijju\Desktop\SPRINT 1\prachi\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\CustomerForgotPassword.baml
+C:\Users\Vijju\Desktop\SPRINT 1\prachi\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\CustomerRegistration.baml
+C:\Users\Vijju\Desktop\SPRINT 1\prachi\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\Login.baml
+C:\Users\Vijju\Desktop\SPRINT 1\prachi\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\LoginAdmin.baml
+C:\Users\Vijju\Desktop\SPRINT 1\prachi\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\LoginCustomer.baml
+C:\Users\Vijju\Desktop\SPRINT 1\prachi\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\MainWindow.baml
+C:\Users\Vijju\Desktop\SPRINT 1\prachi\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\OrderIngredient.baml
+C:\Users\Vijju\Desktop\SPRINT 1\prachi\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\Registration.baml
+C:\Users\Vijju\Desktop\SPRINT 1\prachi\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\SelectRecipe.baml
+C:\Users\Vijju\Desktop\SPRINT 1\prachi\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\ShippingDetails.baml
+C:\Users\Vijju\Desktop\SPRINT 1\prachi\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\RecipeIngredientSystem.PL.g.resources
+C:\Users\Vijju\Desktop\SPRINT 1\prachi\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\RecipeIngredientSystem.PL.Properties.Resources.resources
+C:\Users\Vijju\Desktop\SPRINT 1\prachi\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\RecipeIngredientSystem.PL.csproj.GenerateResource.cache
+C:\Users\Vijju\Desktop\SPRINT 1\prachi\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\RecipeIngredientSystem.PL.csproj.CoreCompileInputs.cache
+C:\Users\Vijju\Desktop\SPRINT 1\prachi\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\RecipeIngredientSystem.PL.csproj.CopyComplete
+C:\Users\Vijju\Desktop\SPRINT 1\prachi\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\RecipeIngredientSystem.PL.exe
+C:\Users\Vijju\Desktop\SPRINT 1\prachi\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\RecipeIngredientSystem.PL.pdb
+D:\dotnet training\sprint 1 related projects\final project\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\RecipeIngredientSystem.PL.csprojAssemblyReference.cache
+D:\dotnet training\sprint 1 related projects\final project\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\AddToCart.g.cs
+D:\dotnet training\sprint 1 related projects\final project\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\AdminAddRecipe.g.cs
+D:\dotnet training\sprint 1 related projects\final project\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\AdminChangePassword.g.cs
+D:\dotnet training\sprint 1 related projects\final project\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\AdminForgotPassword.g.cs
+D:\dotnet training\sprint 1 related projects\final project\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\AdminIngredientManagement.g.cs
+D:\dotnet training\sprint 1 related projects\final project\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\AdminMenu.g.cs
+D:\dotnet training\sprint 1 related projects\final project\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\AdminRegistration.g.cs
+D:\dotnet training\sprint 1 related projects\final project\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\AdminShipping.g.cs
+D:\dotnet training\sprint 1 related projects\final project\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\AdminViewOrder.g.cs
+D:\dotnet training\sprint 1 related projects\final project\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\CustomerChangePassword.g.cs
+D:\dotnet training\sprint 1 related projects\final project\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\CustomerForgotPassword.g.cs
+D:\dotnet training\sprint 1 related projects\final project\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\CustomerRegistration.g.cs
+D:\dotnet training\sprint 1 related projects\final project\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\Login.g.cs
+D:\dotnet training\sprint 1 related projects\final project\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\LoginAdmin.g.cs
+D:\dotnet training\sprint 1 related projects\final project\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\LoginCustomer.g.cs
+D:\dotnet training\sprint 1 related projects\final project\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\MainWindow.g.cs
+D:\dotnet training\sprint 1 related projects\final project\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\OrderIngredient.g.cs
+D:\dotnet training\sprint 1 related projects\final project\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\Registration.g.cs
+D:\dotnet training\sprint 1 related projects\final project\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\SelectRecipe.g.cs
+D:\dotnet training\sprint 1 related projects\final project\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\ShippingDetails.g.cs
+D:\dotnet training\sprint 1 related projects\final project\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\App.g.cs
+D:\dotnet training\sprint 1 related projects\final project\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\RecipeIngredientSystem.PL_MarkupCompile.cache
+D:\dotnet training\sprint 1 related projects\final project\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\RecipeIngredientSystem.PL_MarkupCompile.lref
+D:\dotnet training\sprint 1 related projects\final project\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\RecipeIngredientSystem.PL.exe
+D:\dotnet training\sprint 1 related projects\final project\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\RecipeIngredientSystem.PL.pdb
+D:\dotnet training\sprint 1 related projects\final project\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\bin\Debug\RecipeIngredientSystem.PL.exe.config
+D:\dotnet training\sprint 1 related projects\final project\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\bin\Debug\RecipeIngredientSystem.PL.exe
+D:\dotnet training\sprint 1 related projects\final project\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\bin\Debug\RecipeIngredientSystem.PL.pdb
+D:\dotnet training\sprint 1 related projects\final project\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\bin\Debug\RecipeIngredientSystem.BL.dll
+D:\dotnet training\sprint 1 related projects\final project\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\bin\Debug\RecipeIngredientSystem.Entities.dll
+D:\dotnet training\sprint 1 related projects\final project\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\bin\Debug\RecipeIngredientSystem.Exceptions.dll
+D:\dotnet training\sprint 1 related projects\final project\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\bin\Debug\RecipeIngredientSystem.DAL.dll
+D:\dotnet training\sprint 1 related projects\final project\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\bin\Debug\RecipeIngredientSystem.BL.pdb
+D:\dotnet training\sprint 1 related projects\final project\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\bin\Debug\RecipeIngredientSystem.Entities.pdb
+D:\dotnet training\sprint 1 related projects\final project\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\bin\Debug\RecipeIngredientSystem.Exceptions.pdb
+D:\dotnet training\sprint 1 related projects\final project\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\bin\Debug\RecipeIngredientSystem.DAL.pdb
+D:\dotnet training\sprint 1 related projects\final project\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\bin\Debug\RecipeIngredientSystem.DAL.dll.config
+D:\dotnet training\sprint 1 related projects\final project\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\AddToCart.baml
+D:\dotnet training\sprint 1 related projects\final project\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\AdminAddRecipe.baml
+D:\dotnet training\sprint 1 related projects\final project\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\AdminChangePassword.baml
+D:\dotnet training\sprint 1 related projects\final project\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\AdminForgotPassword.baml
+D:\dotnet training\sprint 1 related projects\final project\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\AdminIngredientManagement.baml
+D:\dotnet training\sprint 1 related projects\final project\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\AdminMenu.baml
+D:\dotnet training\sprint 1 related projects\final project\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\AdminRegistration.baml
+D:\dotnet training\sprint 1 related projects\final project\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\AdminShipping.baml
+D:\dotnet training\sprint 1 related projects\final project\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\AdminViewOrder.baml
+D:\dotnet training\sprint 1 related projects\final project\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\CustomerChangePassword.baml
+D:\dotnet training\sprint 1 related projects\final project\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\CustomerForgotPassword.baml
+D:\dotnet training\sprint 1 related projects\final project\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\CustomerRegistration.baml
+D:\dotnet training\sprint 1 related projects\final project\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\Login.baml
+D:\dotnet training\sprint 1 related projects\final project\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\LoginAdmin.baml
+D:\dotnet training\sprint 1 related projects\final project\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\LoginCustomer.baml
+D:\dotnet training\sprint 1 related projects\final project\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\MainWindow.baml
+D:\dotnet training\sprint 1 related projects\final project\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\OrderIngredient.baml
+D:\dotnet training\sprint 1 related projects\final project\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\Registration.baml
+D:\dotnet training\sprint 1 related projects\final project\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\SelectRecipe.baml
+D:\dotnet training\sprint 1 related projects\final project\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\ShippingDetails.baml
+D:\dotnet training\sprint 1 related projects\final project\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\RecipeIngredientSystem.PL.g.resources
+D:\dotnet training\sprint 1 related projects\final project\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\RecipeIngredientSystem.PL.Properties.Resources.resources
+D:\dotnet training\sprint 1 related projects\final project\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\RecipeIngredientSystem.PL.csproj.GenerateResource.cache
+D:\dotnet training\sprint 1 related projects\final project\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\RecipeIngredientSystem.PL.csproj.CoreCompileInputs.cache
+D:\dotnet training\sprint 1 related projects\final project\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\RecipeIngredientSystem.PL.csproj.CopyComplete
+C:\Users\Vijju\Desktop\final code\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\bin\Debug\RecipeIngredientSystem.PL.exe.config
+C:\Users\Vijju\Desktop\final code\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\bin\Debug\RecipeIngredientSystem.PL.exe
+C:\Users\Vijju\Desktop\final code\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\bin\Debug\RecipeIngredientSystem.PL.pdb
+C:\Users\Vijju\Desktop\final code\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\bin\Debug\RecipeIngredientSystem.BL.dll
+C:\Users\Vijju\Desktop\final code\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\bin\Debug\RecipeIngredientSystem.Entities.dll
+C:\Users\Vijju\Desktop\final code\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\bin\Debug\RecipeIngredientSystem.Exceptions.dll
+C:\Users\Vijju\Desktop\final code\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\bin\Debug\RecipeIngredientSystem.DAL.dll
+C:\Users\Vijju\Desktop\final code\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\bin\Debug\RecipeIngredientSystem.BL.pdb
+C:\Users\Vijju\Desktop\final code\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\bin\Debug\RecipeIngredientSystem.Entities.pdb
+C:\Users\Vijju\Desktop\final code\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\bin\Debug\RecipeIngredientSystem.Exceptions.pdb
+C:\Users\Vijju\Desktop\final code\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\bin\Debug\RecipeIngredientSystem.DAL.pdb
+C:\Users\Vijju\Desktop\final code\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\bin\Debug\RecipeIngredientSystem.DAL.dll.config
+C:\Users\Vijju\Desktop\final code\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\RecipeIngredientSystem.PL.csprojAssemblyReference.cache
+C:\Users\Vijju\Desktop\final code\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\AddToCart.g.cs
+C:\Users\Vijju\Desktop\final code\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\AdminAddRecipe.g.cs
+C:\Users\Vijju\Desktop\final code\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\AdminChangePassword.g.cs
+C:\Users\Vijju\Desktop\final code\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\AdminForgotPassword.g.cs
+C:\Users\Vijju\Desktop\final code\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\AdminIngredientManagement.g.cs
+C:\Users\Vijju\Desktop\final code\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\AdminMenu.g.cs
+C:\Users\Vijju\Desktop\final code\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\AdminRegistration.g.cs
+C:\Users\Vijju\Desktop\final code\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\AdminShipping.g.cs
+C:\Users\Vijju\Desktop\final code\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\AdminViewOrder.g.cs
+C:\Users\Vijju\Desktop\final code\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\CustomerChangePassword.g.cs
+C:\Users\Vijju\Desktop\final code\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\CustomerForgotPassword.g.cs
+C:\Users\Vijju\Desktop\final code\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\CustomerRegistration.g.cs
+C:\Users\Vijju\Desktop\final code\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\Login.g.cs
+C:\Users\Vijju\Desktop\final code\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\LoginAdmin.g.cs
+C:\Users\Vijju\Desktop\final code\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\LoginCustomer.g.cs
+C:\Users\Vijju\Desktop\final code\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\MainWindow.g.cs
+C:\Users\Vijju\Desktop\final code\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\OrderIngredient.g.cs
+C:\Users\Vijju\Desktop\final code\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\Registration.g.cs
+C:\Users\Vijju\Desktop\final code\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\SelectRecipe.g.cs
+C:\Users\Vijju\Desktop\final code\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\ShippingDetails.g.cs
+C:\Users\Vijju\Desktop\final code\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\App.g.cs
+C:\Users\Vijju\Desktop\final code\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\RecipeIngredientSystem.PL_MarkupCompile.cache
+C:\Users\Vijju\Desktop\final code\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\RecipeIngredientSystem.PL_MarkupCompile.lref
+C:\Users\Vijju\Desktop\final code\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\AddToCart.baml
+C:\Users\Vijju\Desktop\final code\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\AdminAddRecipe.baml
+C:\Users\Vijju\Desktop\final code\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\AdminChangePassword.baml
+C:\Users\Vijju\Desktop\final code\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\AdminForgotPassword.baml
+C:\Users\Vijju\Desktop\final code\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\AdminIngredientManagement.baml
+C:\Users\Vijju\Desktop\final code\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\AdminMenu.baml
+C:\Users\Vijju\Desktop\final code\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\AdminRegistration.baml
+C:\Users\Vijju\Desktop\final code\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\AdminShipping.baml
+C:\Users\Vijju\Desktop\final code\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\AdminViewOrder.baml
+C:\Users\Vijju\Desktop\final code\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\CustomerChangePassword.baml
+C:\Users\Vijju\Desktop\final code\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\CustomerForgotPassword.baml
+C:\Users\Vijju\Desktop\final code\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\CustomerRegistration.baml
+C:\Users\Vijju\Desktop\final code\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\Login.baml
+C:\Users\Vijju\Desktop\final code\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\LoginAdmin.baml
+C:\Users\Vijju\Desktop\final code\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\LoginCustomer.baml
+C:\Users\Vijju\Desktop\final code\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\MainWindow.baml
+C:\Users\Vijju\Desktop\final code\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\OrderIngredient.baml
+C:\Users\Vijju\Desktop\final code\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\Registration.baml
+C:\Users\Vijju\Desktop\final code\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\SelectRecipe.baml
+C:\Users\Vijju\Desktop\final code\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\ShippingDetails.baml
+C:\Users\Vijju\Desktop\final code\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\RecipeIngredientSystem.PL.g.resources
+C:\Users\Vijju\Desktop\final code\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\RecipeIngredientSystem.PL.Properties.Resources.resources
+C:\Users\Vijju\Desktop\final code\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\RecipeIngredientSystem.PL.csproj.GenerateResource.cache
+C:\Users\Vijju\Desktop\final code\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\RecipeIngredientSystem.PL.csproj.CoreCompileInputs.cache
+C:\Users\Vijju\Desktop\final code\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\RecipeIngredientSystem.PL.csproj.CopyComplete
+C:\Users\Vijju\Desktop\final code\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\RecipeIngredientSystem.PL.exe
+C:\Users\Vijju\Desktop\final code\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\RecipeIngredientSystem.PL.pdb
+F:\Capgemini\SPRINT1\Final Project\FinalProjectWithComments\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\RecipeIngredientSystem.PL.csprojAssemblyReference.cache
+F:\Capgemini\SPRINT1\Final Project\FinalProjectWithComments\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\AddToCart.g.cs
+F:\Capgemini\SPRINT1\Final Project\FinalProjectWithComments\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\AdminAddRecipe.g.cs
+F:\Capgemini\SPRINT1\Final Project\FinalProjectWithComments\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\AdminChangePassword.g.cs
+F:\Capgemini\SPRINT1\Final Project\FinalProjectWithComments\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\AdminForgotPassword.g.cs
+F:\Capgemini\SPRINT1\Final Project\FinalProjectWithComments\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\AdminIngredientManagement.g.cs
+F:\Capgemini\SPRINT1\Final Project\FinalProjectWithComments\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\AdminMenu.g.cs
+F:\Capgemini\SPRINT1\Final Project\FinalProjectWithComments\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\AdminRegistration.g.cs
+F:\Capgemini\SPRINT1\Final Project\FinalProjectWithComments\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\AdminShipping.g.cs
+F:\Capgemini\SPRINT1\Final Project\FinalProjectWithComments\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\AdminViewOrder.g.cs
+F:\Capgemini\SPRINT1\Final Project\FinalProjectWithComments\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\CustomerChangePassword.g.cs
+F:\Capgemini\SPRINT1\Final Project\FinalProjectWithComments\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\CustomerForgotPassword.g.cs
+F:\Capgemini\SPRINT1\Final Project\FinalProjectWithComments\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\CustomerRegistration.g.cs
+F:\Capgemini\SPRINT1\Final Project\FinalProjectWithComments\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\Login.g.cs
+F:\Capgemini\SPRINT1\Final Project\FinalProjectWithComments\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\LoginAdmin.g.cs
+F:\Capgemini\SPRINT1\Final Project\FinalProjectWithComments\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\LoginCustomer.g.cs
+F:\Capgemini\SPRINT1\Final Project\FinalProjectWithComments\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\MainWindow.g.cs
+F:\Capgemini\SPRINT1\Final Project\FinalProjectWithComments\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\OrderIngredient.g.cs
+F:\Capgemini\SPRINT1\Final Project\FinalProjectWithComments\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\Registration.g.cs
+F:\Capgemini\SPRINT1\Final Project\FinalProjectWithComments\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\SelectRecipe.g.cs
+F:\Capgemini\SPRINT1\Final Project\FinalProjectWithComments\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\ShippingDetails.g.cs
+F:\Capgemini\SPRINT1\Final Project\FinalProjectWithComments\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\App.g.cs
+F:\Capgemini\SPRINT1\Final Project\FinalProjectWithComments\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\RecipeIngredientSystem.PL_MarkupCompile.cache
+F:\Capgemini\SPRINT1\Final Project\FinalProjectWithComments\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\RecipeIngredientSystem.PL_MarkupCompile.lref
+F:\Capgemini\SPRINT1\Final Project\FinalProjectWithComments\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\RecipeIngredientSystem.PL.exe
+F:\Capgemini\SPRINT1\Final Project\FinalProjectWithComments\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\RecipeIngredientSystem.PL.pdb
+F:\Capgemini\SPRINT1\Final Project\FinalProjectWithComments\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\bin\Debug\RecipeIngredientSystem.PL.exe.config
+F:\Capgemini\SPRINT1\Final Project\FinalProjectWithComments\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\bin\Debug\RecipeIngredientSystem.PL.exe
+F:\Capgemini\SPRINT1\Final Project\FinalProjectWithComments\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\bin\Debug\RecipeIngredientSystem.PL.pdb
+F:\Capgemini\SPRINT1\Final Project\FinalProjectWithComments\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\bin\Debug\RecipeIngredientSystem.BL.dll
+F:\Capgemini\SPRINT1\Final Project\FinalProjectWithComments\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\bin\Debug\RecipeIngredientSystem.Entities.dll
+F:\Capgemini\SPRINT1\Final Project\FinalProjectWithComments\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\bin\Debug\RecipeIngredientSystem.Exceptions.dll
+F:\Capgemini\SPRINT1\Final Project\FinalProjectWithComments\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\bin\Debug\RecipeIngredientSystem.DAL.dll
+F:\Capgemini\SPRINT1\Final Project\FinalProjectWithComments\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\bin\Debug\RecipeIngredientSystem.BL.pdb
+F:\Capgemini\SPRINT1\Final Project\FinalProjectWithComments\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\bin\Debug\RecipeIngredientSystem.Entities.pdb
+F:\Capgemini\SPRINT1\Final Project\FinalProjectWithComments\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\bin\Debug\RecipeIngredientSystem.Exceptions.pdb
+F:\Capgemini\SPRINT1\Final Project\FinalProjectWithComments\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\bin\Debug\RecipeIngredientSystem.DAL.pdb
+F:\Capgemini\SPRINT1\Final Project\FinalProjectWithComments\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\bin\Debug\RecipeIngredientSystem.DAL.dll.config
+F:\Capgemini\SPRINT1\Final Project\FinalProjectWithComments\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\AddToCart.baml
+F:\Capgemini\SPRINT1\Final Project\FinalProjectWithComments\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\AdminAddRecipe.baml
+F:\Capgemini\SPRINT1\Final Project\FinalProjectWithComments\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\AdminChangePassword.baml
+F:\Capgemini\SPRINT1\Final Project\FinalProjectWithComments\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\AdminForgotPassword.baml
+F:\Capgemini\SPRINT1\Final Project\FinalProjectWithComments\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\AdminIngredientManagement.baml
+F:\Capgemini\SPRINT1\Final Project\FinalProjectWithComments\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\AdminMenu.baml
+F:\Capgemini\SPRINT1\Final Project\FinalProjectWithComments\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\AdminRegistration.baml
+F:\Capgemini\SPRINT1\Final Project\FinalProjectWithComments\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\AdminShipping.baml
+F:\Capgemini\SPRINT1\Final Project\FinalProjectWithComments\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\AdminViewOrder.baml
+F:\Capgemini\SPRINT1\Final Project\FinalProjectWithComments\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\CustomerChangePassword.baml
+F:\Capgemini\SPRINT1\Final Project\FinalProjectWithComments\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\CustomerForgotPassword.baml
+F:\Capgemini\SPRINT1\Final Project\FinalProjectWithComments\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\CustomerRegistration.baml
+F:\Capgemini\SPRINT1\Final Project\FinalProjectWithComments\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\Login.baml
+F:\Capgemini\SPRINT1\Final Project\FinalProjectWithComments\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\LoginAdmin.baml
+F:\Capgemini\SPRINT1\Final Project\FinalProjectWithComments\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\LoginCustomer.baml
+F:\Capgemini\SPRINT1\Final Project\FinalProjectWithComments\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\MainWindow.baml
+F:\Capgemini\SPRINT1\Final Project\FinalProjectWithComments\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\OrderIngredient.baml
+F:\Capgemini\SPRINT1\Final Project\FinalProjectWithComments\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\Registration.baml
+F:\Capgemini\SPRINT1\Final Project\FinalProjectWithComments\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\SelectRecipe.baml
+F:\Capgemini\SPRINT1\Final Project\FinalProjectWithComments\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\ShippingDetails.baml
+F:\Capgemini\SPRINT1\Final Project\FinalProjectWithComments\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\RecipeIngredientSystem.PL.g.resources
+F:\Capgemini\SPRINT1\Final Project\FinalProjectWithComments\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\RecipeIngredientSystem.PL.Properties.Resources.resources
+F:\Capgemini\SPRINT1\Final Project\FinalProjectWithComments\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\RecipeIngredientSystem.PL.csproj.GenerateResource.cache
+F:\Capgemini\SPRINT1\Final Project\FinalProjectWithComments\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\RecipeIngredientSystem.PL.csproj.CoreCompileInputs.cache
+F:\Capgemini\SPRINT1\Final Project\FinalProjectWithComments\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\obj\Debug\RecipeIngredientSystem.PL.csproj.CopyComplete

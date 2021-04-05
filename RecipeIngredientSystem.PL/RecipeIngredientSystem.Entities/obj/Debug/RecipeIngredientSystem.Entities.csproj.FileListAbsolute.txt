@@ -1,0 +1,24 @@
+F:\Capgemini\SPRINT1\RecipeIngredientSystem.PL\RecipeIngredientSystem.Entities\bin\Debug\RecipeIngredientSystem.Entities.dll
+F:\Capgemini\SPRINT1\RecipeIngredientSystem.PL\RecipeIngredientSystem.Entities\bin\Debug\RecipeIngredientSystem.Entities.pdb
+F:\Capgemini\SPRINT1\RecipeIngredientSystem.PL\RecipeIngredientSystem.Entities\obj\Debug\RecipeIngredientSystem.Entities.csprojAssemblyReference.cache
+F:\Capgemini\SPRINT1\RecipeIngredientSystem.PL\RecipeIngredientSystem.Entities\obj\Debug\RecipeIngredientSystem.Entities.csproj.CoreCompileInputs.cache
+F:\Capgemini\SPRINT1\RecipeIngredientSystem.PL\RecipeIngredientSystem.Entities\obj\Debug\RecipeIngredientSystem.Entities.dll
+F:\Capgemini\SPRINT1\RecipeIngredientSystem.PL\RecipeIngredientSystem.Entities\obj\Debug\RecipeIngredientSystem.Entities.pdb
+C:\Users\Vijju\Desktop\Prachi\RecipeIngredientSystem.PL\RecipeIngredientSystem.Entities\bin\Debug\RecipeIngredientSystem.Entities.dll
+C:\Users\Vijju\Desktop\Prachi\RecipeIngredientSystem.PL\RecipeIngredientSystem.Entities\bin\Debug\RecipeIngredientSystem.Entities.pdb
+C:\Users\Vijju\Desktop\Prachi\RecipeIngredientSystem.PL\RecipeIngredientSystem.Entities\obj\Debug\RecipeIngredientSystem.Entities.csprojAssemblyReference.cache
+C:\Users\Vijju\Desktop\Prachi\RecipeIngredientSystem.PL\RecipeIngredientSystem.Entities\obj\Debug\RecipeIngredientSystem.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Vijju\Desktop\Prachi\RecipeIngredientSystem.PL\RecipeIngredientSystem.Entities\obj\Debug\RecipeIngredientSystem.Entities.dll
+C:\Users\Vijju\Desktop\Prachi\RecipeIngredientSystem.PL\RecipeIngredientSystem.Entities\obj\Debug\RecipeIngredientSystem.Entities.pdb
+C:\Users\DHOR\Desktop\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\RecipeIngredientSystem.Entities\bin\Debug\RecipeIngredientSystem.Entities.dll
+C:\Users\DHOR\Desktop\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\RecipeIngredientSystem.Entities\bin\Debug\RecipeIngredientSystem.Entities.pdb
+C:\Users\DHOR\Desktop\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\RecipeIngredientSystem.Entities\obj\Debug\RecipeIngredientSystem.Entities.csprojAssemblyReference.cache
+C:\Users\DHOR\Desktop\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\RecipeIngredientSystem.Entities\obj\Debug\RecipeIngredientSystem.Entities.csproj.CoreCompileInputs.cache
+C:\Users\DHOR\Desktop\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\RecipeIngredientSystem.Entities\obj\Debug\RecipeIngredientSystem.Entities.dll
+C:\Users\DHOR\Desktop\RecipeIngredientSystem.PL\RecipeIngredientSystem.PL\RecipeIngredientSystem.Entities\obj\Debug\RecipeIngredientSystem.Entities.pdb
+C:\Users\Vijju\Desktop\SPRINT 1\prachi\RecipeIngredientSystem.PL\RecipeIngredientSystem.Entities\bin\Debug\RecipeIngredientSystem.Entities.dll
+C:\Users\Vijju\Desktop\SPRINT 1\prachi\RecipeIngredientSystem.PL\RecipeIngredientSystem.Entities\bin\Debug\RecipeIngredientSystem.Entities.pdb
+C:\Users\Vijju\Desktop\SPRINT 1\prachi\RecipeIngredientSystem.PL\RecipeIngredientSystem.Entities\obj\Debug\RecipeIngredientSystem.Entities.csprojAssemblyReference.cache
+C:\Users\Vijju\Desktop\SPRINT 1\prachi\RecipeIngredientSystem.PL\RecipeIngredientSystem.Entities\obj\Debug\RecipeIngredientSystem.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Vijju\Desktop\SPRINT 1\prachi\RecipeIngredientSystem.PL\RecipeIngredientSystem.Entities\obj\Debug\RecipeIngredientSystem.Entities.dll
+C:\Users\Vijju\Desktop\SPRINT 1\prachi\RecipeIngredientSystem.PL\RecipeIngredientSystem.Entities\obj\Debug\RecipeIngredientSystem.Entities.pdb

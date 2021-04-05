@@ -1,0 +1,39 @@
+﻿<Window x:Class="RecipeIngredientSystem.PL.SelectRecipe"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:RecipeIngredientSystem.PL"
+        mc:Ignorable="d"
+        Title="SelectRecipe" Height="450" Width="800">
+    <Grid>
+        <Image HorizontalAlignment="Left" Height="420" Margin="0,0,-0.4,0" VerticalAlignment="Top" Width="794" Source="jeff-sheldon-264920.jpg" Opacity="0.3"/>
+        <ComboBox x:Name="cmbbox" HorizontalAlignment="Left" Margin="26,185,0,0" VerticalAlignment="Top" Width="168" SelectionChanged="cmbbox_SelectionChanged" Height="39"/>
+        <DataGrid x:Name="grid" HorizontalAlignment="Left" Height="209" Margin="251,185,0,0" VerticalAlignment="Top" Width="492" SelectionChanged="grid_SelectionChanged">
+            <DataGrid.Columns>
+                <!--<DataGridTextColumn FontSize="12" Header="Recipe Id" Binding="{Binding Path='RecipeId'}" IsReadOnly="True" />
+                <DataGridTextColumn FontSize="12" Header="Recipe Name" Binding="{Binding Path='Name'}" IsReadOnly="True" />
+                <DataGridTextColumn FontSize="12" Header="Recipe Description" Binding="{Binding Path='Description'}" IsReadOnly="True" />
+                -->
+                <DataGridTemplateColumn Header="VIEW INGREDIENTS">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <Button x:Name="btnshow" FontSize="14" Content="View" Click="btnshow_Click" />
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+
+                <!--<DataGridTextColumn FontSize="12" Header="Recipe Id" Binding="{Binding Path='RecipeId'}" IsReadOnly="True" />
+                <DataGridTextColumn FontSize="12" Header="Recipe Name" Binding="{Binding Path='Name'}" IsReadOnly="True" />
+                <DataGridTextColumn FontSize="12" Header="Recipe Description" Binding="{Binding Path='Description'}" IsReadOnly="True" />
+                -->
+            </DataGrid.Columns>
+        </DataGrid>
+        <TextBox x:Name="txtusername" TextAlignment="Right" HorizontalAlignment="Left" Height="42" Margin="502,0,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="221" FontSize="20" BorderThickness="0" RenderTransformOrigin="0.5,0.5"/>
+        <Label Content="Select Recipe" HorizontalAlignment="Left" Margin="26,145,0,0" VerticalAlignment="Top" Height="35" Width="138" FontSize="18"/>
+        <Button Content="LOGOUT" HorizontalAlignment="Left" Margin="728,0,0,0" VerticalAlignment="Top" Width="56" Height="42" FontWeight="Bold" BorderThickness="2" Click="Button_Click"/>
+        <Button x:Name="backbtn" Content="Back Page" HorizontalAlignment="Left" VerticalAlignment="Top" Width="85" FontSize="14" Click="backbtn_Click"/>
+        <Button x:Name="cartbtn" Content="CART" HorizontalAlignment="Left" Margin="26,65,0,0" VerticalAlignment="Top" Width="96" Height="43" FontSize="20" FontWeight="Bold" Click="cartbtn_Click"/>
+
+    </Grid>
+</Window>

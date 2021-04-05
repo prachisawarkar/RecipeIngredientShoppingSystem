@@ -1,0 +1,16 @@
+﻿<Window x:Class="RecipeIngredientSystem.PL.Login"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:RecipeIngredientSystem.PL"
+        mc:Ignorable="d"
+        Title="Login" Height="450" Width="800">
+    <Grid>
+        <Image HorizontalAlignment="Left" Height="420" VerticalAlignment="Top" Width="794" Source="jeff-sheldon-264920.jpg" Opacity="0.3" Margin="0,0,-0.4,0"/>
+        <Button x:Name="btnadminsignin" Content="ADMIN SIGN IN" HorizontalAlignment="Left" Margin="255,113,0,0" VerticalAlignment="Top" Width="245" FontSize="24" Click="btnadminsignin_Click"/>
+        <Button x:Name="btncustsignin" Content="CUSTOMER SIGN IN" HorizontalAlignment="Left" Margin="231,226,0,0" VerticalAlignment="Top" Width="287" RenderTransformOrigin="-0.045,0.451" FontSize="24" Click="btncustsignin_Click"/>
+        <Button x:Name="backbtn" Content="Back Page" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" FontSize="14" Click="backbtn_Click"/>
+
+    </Grid>
+</Window>
