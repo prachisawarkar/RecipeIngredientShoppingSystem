@@ -1,0 +1,44 @@
+﻿<Window x:Class="RecipeIngredientSystem.PL.AddToCart"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:RecipeIngredientSystem.PL"
+        mc:Ignorable="d"
+        Title="AddToCart" Height="700" Width="1300">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="75*"/>
+            <RowDefinition Height="59*"/>
+        </Grid.RowDefinitions>
+        <Image HorizontalAlignment="Left" Height="710" Margin="0,0,-179.4,-39.6" VerticalAlignment="Top" Width="1473" Source="jeff-sheldon-264920.jpg" Opacity="0.3" Grid.RowSpan="2"/>
+        <DataGrid x:Name="listofingredients" HorizontalAlignment="Left" Height="321" Margin="685,241,0,0" VerticalAlignment="Top" Width="503" SelectionChanged="listofingredients_SelectionChanged" FontSize="14" Grid.RowSpan="2"/>
+        <Button x:Name="addtocartbtn" Content="ADD TO CART" HorizontalAlignment="Left" Margin="153,45.8,0,0" VerticalAlignment="Top" Width="224" RenderTransformOrigin="0.5,0.5" Height="50" FontSize="28" Click="addtocartbtn_Click_1" Grid.Row="1" FontWeight="Bold">
+            <Button.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="0.75"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Button.RenderTransform>
+        </Button>
+        <Label x:Name="noname1" Content="Price&#xA;" HorizontalAlignment="Left" Margin="96,208,0,0" VerticalAlignment="Top" Height="40" Width="150" FontSize="20" FontWeight="Bold"/>
+        <Label Content="Quantity" HorizontalAlignment="Left" Margin="96,265,0,0" VerticalAlignment="Top" Height="40" Width="150" FontSize="20" FontWeight="Bold"/>
+        <Label Content="IngredientID&#xA;" HorizontalAlignment="Left" Margin="96,156,0,0" VerticalAlignment="Top" Height="40" Width="150" FontSize="20" FontWeight="Bold"/>
+        <Label Content="Amount&#xA;" HorizontalAlignment="Left" Margin="96,318,0,0" VerticalAlignment="Top" Height="40" Width="150" FontSize="20" FontWeight="Bold"/>
+        <TextBox x:Name="txtingredient" PreviewTextInput="NumericOnly" HorizontalAlignment="Left" Height="40" Margin="287,159,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="200" FontSize="16" Background="White" RenderTransformOrigin="0.488,1.521" IsReadOnly="True"/>
+        <TextBox x:Name="txtprice" HorizontalAlignment="Left" Height="40" Margin="287,210,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="200" FontSize="16" Background="White" IsReadOnly="True"/>
+        <TextBox x:Name="txtquantity" HorizontalAlignment="Left" Height="40" Margin="287,265,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="200" FontSize="16" Background="White" TextChanged="txtquantity_TextChanged"/>
+        <TextBox x:Name="txtamount" HorizontalAlignment="Left" Height="40" Margin="287,320,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="200" FontSize="16" Background="White" IsReadOnly="True"/>
+        <Label Content="List of Ingredients" HorizontalAlignment="Left" Margin="685,112,0,0" VerticalAlignment="Top" Height="62" Width="390" FontSize="36" FontWeight="Bold"/>
+        <Button x:Name="viewbtn" Content="VIEW" HorizontalAlignment="Left" Margin="848,208.8,0,0" VerticalAlignment="Top" Width="142" Height="60" FontSize="28" Click="viewbtn_Click" FontWeight="Bold" Grid.Row="1"/>
+        <TextBox x:Name="txtusername1" TextAlignment="Center" HorizontalAlignment="Left" Height="42" Margin="953,15,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="235" FontSize="20" BorderThickness="0" RenderTransformOrigin="0.5,0.5" FontWeight="Bold" IsReadOnly="True"/>
+        <TextBox x:Name="txtid" HorizontalAlignment="Left" Height="45" Margin="1012,129,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="50" FontSize="20" BorderThickness="0" FontWeight="Bold" IsReadOnly="True"/>
+        <Button x:Name="cartbtn" Content="CART" HorizontalAlignment="Left" Margin="10,57,0,0" VerticalAlignment="Top" Width="112" Height="62" FontSize="24" FontWeight="Bold" Click="cartbtn_Click"/>
+        <Button x:Name="logoutbtn" Content="LOGOUT" HorizontalAlignment="Left" Margin="1198,0,0,318.2" VerticalAlignment="Bottom" Width="86" Height="47" Click="logoutbtn_Click" FontSize="18" FontWeight="Bold"/>
+        <Button x:Name="backbtn" Content="Back" HorizontalAlignment="Left" VerticalAlignment="Top" Width="122" FontSize="14" Click="backbtn_Click" Height="30" FontWeight="Bold"/>
+        <Label Content="Select Ingredient from list:" HorizontalAlignment="Left" Margin="685,182,0,0" VerticalAlignment="Top" Width="343" FontSize="20" RenderTransformOrigin="0.563,0.369" FontWeight="Bold" Height="36"/>
+
+    </Grid>
+</Window>

@@ -1,0 +1,25 @@
+﻿<Window x:Class="RecipeIngredientSystem.PL.AdminRegistration"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:RecipeIngredientSystem.PL"
+        mc:Ignorable="d"
+        Title="AdminRegistration" Height="700" Width="1300">
+    <Grid>
+        <Image HorizontalAlignment="Left" Height="792" VerticalAlignment="Top" Width="1284" Margin="0,0,0,-121.6" Source="jeff-sheldon-264920.jpg" Opacity="0.3"/>
+        <Button x:Name="btnsubmit" Content="Submit" HorizontalAlignment="Left" Margin="507,436,0,0" VerticalAlignment="Top" Width="188" FontSize="28" RenderTransformOrigin="0.271,0.565" Click="btnsubmit_Click" Height="45" FontWeight="Bold"/>
+        <Label Content="Username" HorizontalAlignment="Left" Margin="393,153,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.611,-1.446" FontSize="20" Width="130" Height="40" FontWeight="Bold"/>
+        <Label Content="Password" HorizontalAlignment="Left" Margin="393,212,0,0" VerticalAlignment="Top" FontSize="20" Width="130" Height="40" FontWeight="Bold"/>
+        <Label Content="Security Question" HorizontalAlignment="Left" Margin="393,273,0,0" VerticalAlignment="Top" FontSize="20" Width="202" Height="40" FontWeight="Bold"/>
+        <Label Content="Security Answer" HorizontalAlignment="Left" Margin="393,330,0,0" VerticalAlignment="Top" FontSize="20" Width="202" Height="40" FontWeight="Bold"/>
+        <TextBox x:Name="txtusername" HorizontalAlignment="Left" Height="40" Margin="634,153,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="250" FontSize="14"/>
+        <TextBox x:Name="txtsecurityquestion" HorizontalAlignment="Left" Height="40" Margin="634,273,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="250" FontSize="14"/>
+        <TextBox x:Name="txtsecurityanswer" HorizontalAlignment="Left" Height="40" Margin="634,330,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="250" FontSize="14" RenderTransformOrigin="0.396,-0.277"/>
+        <PasswordBox x:Name="txtpassword" HorizontalAlignment="Left" Margin="634,212,0,0" VerticalAlignment="Top" Width="250" Height="40" FontSize="14"/>
+        <TextBlock HorizontalAlignment="Left" Margin="489,68,0,0" TextWrapping="Wrap" Text="Registration" VerticalAlignment="Top" Width="241" Height="51" FontSize="36" FontWeight="Bold"/>
+        <Button x:Name="backbtn" Content="Back" HorizontalAlignment="Left" VerticalAlignment="Top" Width="122" FontSize="14" Click="backbtn_Click" Height="30" FontWeight="Bold"/>
+        <Button x:Name="homepagebtn" Content="Home" HorizontalAlignment="Left" Margin="1172,0,-0.4,0" VerticalAlignment="Top" Width="122" FontSize="14" Click="homepagebtn_Click" Height="30" FontWeight="Bold"/>
+
+    </Grid>
+</Window>

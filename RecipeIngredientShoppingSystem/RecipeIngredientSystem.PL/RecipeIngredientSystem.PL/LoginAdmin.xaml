@@ -1,0 +1,32 @@
+﻿<Window x:Class="RecipeIngredientSystem.PL.LoginAdmin"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:RecipeIngredientSystem.PL"
+        mc:Ignorable="d"
+        Title="LoginAdmin" Height="700" Width="1300">
+    <Grid>
+        <Image Source="jeff-sheldon-264920.jpg" Opacity="0.3" Margin="-58,0,55.6,0.4"/>
+        <Label Content="Username" HorizontalAlignment="Left" Margin="302,159,0,0" VerticalAlignment="Top" FontSize="32" Height="70" Width="181" FontWeight="Bold"/>
+        <Label Content="Password" HorizontalAlignment="Left" Margin="302,260,0,0" VerticalAlignment="Top" FontSize="32" Width="181" FontWeight="Bold"/>
+        <TextBlock HorizontalAlignment="Left" Margin="482,64,0,0" TextWrapping="Wrap" Text="SIGN IN" VerticalAlignment="Top" Height="57" Width="211" FontSize="48" FontWeight="Bold"/>
+        <PasswordBox x:Name="txtpassword" HorizontalAlignment="Left" Margin="557,243,0,0" VerticalAlignment="Top" Height="70" Width="400" FontSize="24"/>
+        <TextBox x:Name="txtusername" HorizontalAlignment="Left" Height="70" Margin="557,159,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="400" FontSize="24"/>
+        <Button x:Name="btnsignin" Content="Sign In" HorizontalAlignment="Left" Margin="489,382,0,0" VerticalAlignment="Top" Width="176" RenderTransformOrigin="0.758,1.039" FontSize="22" FontWeight="Bold" Click="btnsignin_Click" Height="51">
+            <Button.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-0.206"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Button.RenderTransform>
+        </Button>
+        <Button x:Name="btnforgotpass" Content="Forgot Password" HorizontalAlignment="Left" Margin="676,346,0,0" VerticalAlignment="Top" Width="162" FontSize="14" RenderTransformOrigin="0.475,0.393" BorderThickness="0" Click="btnforgotpass_Click" Height="33" FontWeight="Bold"/>
+        <Button Content="Add Admin? Sign Up" HorizontalAlignment="Left" Margin="676,433,0,0" VerticalAlignment="Top" Width="162" FontSize="16" BorderThickness="0" Click="Button_Click" Height="36" FontWeight="Bold"/>
+        <Button x:Name="backbtn" Content="Back" HorizontalAlignment="Left" VerticalAlignment="Top" Width="122" FontSize="14" Click="backbtn_Click" Height="30" FontWeight="Bold"/>
+        <Button x:Name="homepagebtn" Content="Home " HorizontalAlignment="Left" Margin="1172,0,-0.4,0" VerticalAlignment="Top" Width="122" FontSize="14" Click="homepagebtn_Click" Height="30" FontWeight="Bold"/>
+
+    </Grid>
+</Window>

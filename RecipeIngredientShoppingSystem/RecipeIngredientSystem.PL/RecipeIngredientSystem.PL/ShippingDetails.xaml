@@ -1,0 +1,20 @@
+﻿<Window x:Class="RecipeIngredientSystem.PL.ShippingDetails"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:RecipeIngredientSystem.PL"
+        mc:Ignorable="d"
+        Title="ShippingDetails" Height="700" Width="1300">
+    <Grid>
+        <Image HorizontalAlignment="Left" Height="670" VerticalAlignment="Top" Width="1529" Margin="0,0,-235.4,0" Source="jeff-sheldon-264920.jpg" Opacity="0.3"/>
+
+        <DataGrid x:Name="grid" HorizontalAlignment="Left" Height="256" Margin="222,175,0,0" VerticalAlignment="Top" Width="801" SelectionChanged="DataGrid_SelectionChanged"/>
+        <Button x:Name="viewsippingbtn" Content=" VIEW SHIPPING DETAILS" HorizontalAlignment="Left" Margin="467,96,0,0" VerticalAlignment="Top" Width="285" Height="46" FontWeight="Bold" FontSize="20" Click="ViewShippingButton_Click"/>
+        <TextBox x:Name="txtusername" TextAlignment="Center" HorizontalAlignment="Left" Height="42" Margin="943,15,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="235" FontSize="20" BorderThickness="0" RenderTransformOrigin="0.5,0.5" FontWeight="Bold" IsReadOnly="True"/>
+        <Button x:Name="logoutbtn" Content="LOGOUT" HorizontalAlignment="Left" Margin="1198,10,0,0" VerticalAlignment="Top" Width="86" Height="47" FontWeight="Bold" BorderThickness="2" Click="LogoutButton_Click" FontSize="18"/>
+        <TextBox x:Name="txtmsg" TextAlignment="Center" HorizontalAlignment="Left" Height="64" Margin="250,480,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="745" FontSize="48" BorderThickness="0" TextDecorations="{x:Null}" TextChanged="txtmsg_TextChanged"/>
+        <Button x:Name="backbtn" Content="Back" HorizontalAlignment="Left" VerticalAlignment="Top" Width="122" FontSize="14" Click="backbtn_Click" Height="30" FontWeight="Bold"/>
+
+    </Grid>
+</Window>
