@@ -44,6 +44,8 @@ create table Customer
 	Address Varchar(100) Not null, 
 );
 
+insert into Customer values('Aditi', 'adi@gmail.com', '9877890009', 'aditi', '123456', 'Nagpur' );
+
 --Recipe table
 create table Recipe
 (
@@ -51,6 +53,9 @@ create table Recipe
 	Name Varchar(50) not null,
 	Description Varchar(300)
 );
+
+insert into recipe values ('Pasta', 'good'), ('Maggi', '2 minute breakfast');
+insert into recipe values( 'Noodles', 'Noodles are a type of food made from unleavened dough which is rolled flat and cut, stretched or extruded, into long strips or strings');
 
 --Ingredient table
 create table Ingredient
@@ -74,6 +79,8 @@ create table Cart
 	IngredientQuantity decimal(18,2),
 	Amount decimal(18,2)
 );
+
+insert into Cart values(1, 1, 2, 30 );
 --alter table query to add check constraint
 alter table Cart
 add Check(IngredientQuantity >= 1);
@@ -106,9 +113,12 @@ create table Shipping
 (
 	ShippingNumber int PRIMARY KEY identity(1, 1),
 	OrderId int FOREIGN KEY REFERENCES OrderIngredient(OrderId) not null,
+	CustomerId int FOREIGN KEY REFERENCES Customer(CustomerId),
 	ExpectedDeliveryDate datetime not null
 );
 
+insert into Shipping values(1, 1, '2012-12-2'),
+(1,1, '2020-2-2');
 --select queries for all tables
 select * from Admin
 Go
@@ -126,6 +136,52 @@ select * from Recipe
 Go
 select * from Customer
 Go
+
+
+------ TRIGGERS-------------------------------------->
+------------------------------------------------------------------------>
+
+-- trigger to enter details into shipping table and delete previous carts from cart table
+
+CREATE TRIGGER AfterInsertInOrderIngredient
+on OrderIngredient
+AFTER INSERT 
+AS 
+BEGIN
+
+	SET NOCOUNT ON;
+
+	declare @expected_date date;
+	set @expected_date = dateadd(DD, 5, getdate()); 
+
+	INSERT INTO shipping (
+		 OrderId,
+		 CustomerId,
+		 ExpectedDeliveryDate
+	 )
+	select
+		 i.OrderId,
+		 i.CustomerId,
+		 @expected_date
+	FROM
+		inserted As i
+
+	DELETE c FROM cart c INNER JOIN inserted i on i.CustomerId = c.CustomerID;
+END
+
+insert into OrderIngredient values(2, '2020-2-2', '999999999', 'aa', 1220, 1, 12222);
+
+
+	 
+
+
+
+
+
+
+
+
+
 
 
 ------ STORED PROCEDURE FOR ADMIN-------------------------------------->
@@ -689,8 +745,3 @@ Go
 
 ---------------------------------**********************************-------------------------------------------
 ---------------------------------**********************************-------------------------------------------
-
-
-
-
-
