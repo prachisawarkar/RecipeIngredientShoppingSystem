@@ -39,7 +39,7 @@ namespace RecipeIngredientSystem.DAL
                 price = Convert.ToDecimal(ingredient.Price);
                 description = ingredient.Description;
 
-                SqlConnection objCon = new SqlConnection(ConfigurationManager.ConnectionStrings["Sprint1"].ConnectionString);
+                SqlConnection objCon = new SqlConnection(ConfigurationManager.ConnectionStrings["Sprint1_RIMS"].ConnectionString);
                 SqlCommand objCom = new SqlCommand("AddIngredient", objCon);
                 objCom.CommandType = CommandType.StoredProcedure;
 
@@ -99,7 +99,7 @@ namespace RecipeIngredientSystem.DAL
 
                 objSqlParam_Id.Value = ingredientId;
 
-                SqlConnection objCon = new SqlConnection(ConfigurationManager.ConnectionStrings["Sprint1"].ConnectionString); ;
+                SqlConnection objCon = new SqlConnection(ConfigurationManager.ConnectionStrings["Sprint1_RIMS"].ConnectionString); ;
                 SqlCommand objCom = new SqlCommand("DeleteIngredient", objCon);
                 objCom.CommandType = CommandType.StoredProcedure;
                 objCom.Parameters.Add(objSqlParam_Id);
@@ -127,7 +127,7 @@ namespace RecipeIngredientSystem.DAL
                 int ingredientId;
                 ingredientId = Convert.ToInt32(searchIngredient);
 
-                SqlConnection objCon = new SqlConnection(ConfigurationManager.ConnectionStrings["Sprint1"].ConnectionString);
+                SqlConnection objCon = new SqlConnection(ConfigurationManager.ConnectionStrings["Sprint1_RIMS"].ConnectionString);
                 SqlCommand objCom = new SqlCommand("SearchIngredient", objCon);
                 objCom.CommandType = CommandType.StoredProcedure;
 
@@ -174,7 +174,7 @@ namespace RecipeIngredientSystem.DAL
                 decimal price;
                 string description;
 
-                SqlConnection objCon = new SqlConnection(ConfigurationManager.ConnectionStrings["Sprint1"].ConnectionString); ;
+                SqlConnection objCon = new SqlConnection(ConfigurationManager.ConnectionStrings["Sprint1_RIMS"].ConnectionString); ;
                 SqlCommand objCom = new SqlCommand("UpdateIngredient", objCon);
                 objCom.CommandType = CommandType.StoredProcedure;
 
@@ -216,7 +216,7 @@ namespace RecipeIngredientSystem.DAL
         {
             List<Ingredient> ingredients = new List<Ingredient>();
 
-            SqlConnection objCon = new SqlConnection(ConfigurationManager.ConnectionStrings["Sprint1"].ConnectionString); ;
+            SqlConnection objCon = new SqlConnection(ConfigurationManager.ConnectionStrings["Sprint1_RIMS"].ConnectionString); ;
             SqlCommand objCom = new SqlCommand("GetIngredient", objCon);
             objCom.CommandType = CommandType.StoredProcedure;
             objCon.Open();

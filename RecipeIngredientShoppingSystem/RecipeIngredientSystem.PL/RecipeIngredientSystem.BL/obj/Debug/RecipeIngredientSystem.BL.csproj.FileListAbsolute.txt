@@ -166,3 +166,17 @@ C:\Users\user\Desktop\Team-3\project with comments\RecipeIngredientSystem.PL\Rec
 C:\Users\user\Desktop\Team-3\project with comments\RecipeIngredientSystem.PL\RecipeIngredientSystem.BL\obj\Debug\RecipeIngredientSystem.BL.csproj.CopyComplete
 C:\Users\user\Desktop\Team-3\project with comments\RecipeIngredientSystem.PL\RecipeIngredientSystem.BL\obj\Debug\RecipeIngredientSystem.BL.dll
 C:\Users\user\Desktop\Team-3\project with comments\RecipeIngredientSystem.PL\RecipeIngredientSystem.BL\obj\Debug\RecipeIngredientSystem.BL.pdb
+F:\Capgemini\SPRINT1\Final Project\FinalProjectWithComments\RecipeIngredientShoppingSystem\RecipeIngredientSystem.PL\RecipeIngredientSystem.BL\bin\Debug\RecipeIngredientSystem.BL.dll
+F:\Capgemini\SPRINT1\Final Project\FinalProjectWithComments\RecipeIngredientShoppingSystem\RecipeIngredientSystem.PL\RecipeIngredientSystem.BL\bin\Debug\RecipeIngredientSystem.BL.pdb
+F:\Capgemini\SPRINT1\Final Project\FinalProjectWithComments\RecipeIngredientShoppingSystem\RecipeIngredientSystem.PL\RecipeIngredientSystem.BL\bin\Debug\RecipeIngredientSystem.DAL.dll
+F:\Capgemini\SPRINT1\Final Project\FinalProjectWithComments\RecipeIngredientShoppingSystem\RecipeIngredientSystem.PL\RecipeIngredientSystem.BL\bin\Debug\RecipeIngredientSystem.Entities.dll
+F:\Capgemini\SPRINT1\Final Project\FinalProjectWithComments\RecipeIngredientShoppingSystem\RecipeIngredientSystem.PL\RecipeIngredientSystem.BL\bin\Debug\RecipeIngredientSystem.Exceptions.dll
+F:\Capgemini\SPRINT1\Final Project\FinalProjectWithComments\RecipeIngredientShoppingSystem\RecipeIngredientSystem.PL\RecipeIngredientSystem.BL\bin\Debug\RecipeIngredientSystem.DAL.pdb
+F:\Capgemini\SPRINT1\Final Project\FinalProjectWithComments\RecipeIngredientShoppingSystem\RecipeIngredientSystem.PL\RecipeIngredientSystem.BL\bin\Debug\RecipeIngredientSystem.DAL.dll.config
+F:\Capgemini\SPRINT1\Final Project\FinalProjectWithComments\RecipeIngredientShoppingSystem\RecipeIngredientSystem.PL\RecipeIngredientSystem.BL\bin\Debug\RecipeIngredientSystem.Entities.pdb
+F:\Capgemini\SPRINT1\Final Project\FinalProjectWithComments\RecipeIngredientShoppingSystem\RecipeIngredientSystem.PL\RecipeIngredientSystem.BL\bin\Debug\RecipeIngredientSystem.Exceptions.pdb
+F:\Capgemini\SPRINT1\Final Project\FinalProjectWithComments\RecipeIngredientShoppingSystem\RecipeIngredientSystem.PL\RecipeIngredientSystem.BL\obj\Debug\RecipeIngredientSystem.BL.csprojAssemblyReference.cache
+F:\Capgemini\SPRINT1\Final Project\FinalProjectWithComments\RecipeIngredientShoppingSystem\RecipeIngredientSystem.PL\RecipeIngredientSystem.BL\obj\Debug\RecipeIngredientSystem.BL.csproj.CoreCompileInputs.cache
+F:\Capgemini\SPRINT1\Final Project\FinalProjectWithComments\RecipeIngredientShoppingSystem\RecipeIngredientSystem.PL\RecipeIngredientSystem.BL\obj\Debug\RecipeIngredientSystem.BL.csproj.CopyComplete
+F:\Capgemini\SPRINT1\Final Project\FinalProjectWithComments\RecipeIngredientShoppingSystem\RecipeIngredientSystem.PL\RecipeIngredientSystem.BL\obj\Debug\RecipeIngredientSystem.BL.dll
+F:\Capgemini\SPRINT1\Final Project\FinalProjectWithComments\RecipeIngredientShoppingSystem\RecipeIngredientSystem.PL\RecipeIngredientSystem.BL\obj\Debug\RecipeIngredientSystem.BL.pdb

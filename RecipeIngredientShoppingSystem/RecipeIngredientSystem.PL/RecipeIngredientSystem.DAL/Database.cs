@@ -45,7 +45,7 @@ namespace RecipeIngredientSystem.DAL
         public const string GETRECIPE = "GetRecipe";
         static Database()
         {
-            connectionString = ConfigurationManager.ConnectionStrings["Sprint1"].ConnectionString;
+            connectionString = ConfigurationManager.ConnectionStrings["Sprint1_RIMS"].ConnectionString;
         }
         public static string ConnectionString
         {

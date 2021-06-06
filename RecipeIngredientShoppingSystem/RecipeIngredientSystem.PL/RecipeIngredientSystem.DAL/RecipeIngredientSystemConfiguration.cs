@@ -24,8 +24,8 @@ namespace RecipeIngredientSystem.DAL
         }
         static RecipeIngredientSystemConfiguration()
         {
-            providerName = ConfigurationManager.ConnectionStrings["Sprint1"].ProviderName;
-            connectionString = ConfigurationManager.ConnectionStrings["Sprint1"].ConnectionString;
+            providerName = ConfigurationManager.ConnectionStrings["Sprint1_RIMS"].ProviderName;
+            connectionString = ConfigurationManager.ConnectionStrings["Sprint1_RIMS"].ConnectionString;
         }
     }
 }

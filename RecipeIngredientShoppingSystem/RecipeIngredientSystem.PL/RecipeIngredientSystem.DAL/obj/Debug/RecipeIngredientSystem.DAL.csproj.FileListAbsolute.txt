@@ -238,3 +238,23 @@ C:\Users\user\Desktop\Team-3\project with comments\RecipeIngredientSystem.PL\Rec
 C:\Users\user\Desktop\Team-3\project with comments\RecipeIngredientSystem.PL\RecipeIngredientSystem.DAL\obj\Debug\RecipeIngredientSystem.DAL.csproj.CopyComplete
 C:\Users\user\Desktop\Team-3\project with comments\RecipeIngredientSystem.PL\RecipeIngredientSystem.DAL\obj\Debug\RecipeIngredientSystem.DAL.dll
 C:\Users\user\Desktop\Team-3\project with comments\RecipeIngredientSystem.PL\RecipeIngredientSystem.DAL\obj\Debug\RecipeIngredientSystem.DAL.pdb
+F:\Capgemini\SPRINT1\Final Project\FinalProjectWithComments\RecipeIngredientShoppingSystem\RecipeIngredientSystem.PL\RecipeIngredientSystem.DAL\bin\Debug\RecipeIngredientSystem.DAL.dll.config
+F:\Capgemini\SPRINT1\Final Project\FinalProjectWithComments\RecipeIngredientShoppingSystem\RecipeIngredientSystem.PL\RecipeIngredientSystem.DAL\bin\Debug\RecipeIngredientSystem.DAL.dll
+F:\Capgemini\SPRINT1\Final Project\FinalProjectWithComments\RecipeIngredientShoppingSystem\RecipeIngredientSystem.PL\RecipeIngredientSystem.DAL\bin\Debug\RecipeIngredientSystem.DAL.pdb
+F:\Capgemini\SPRINT1\Final Project\FinalProjectWithComments\RecipeIngredientShoppingSystem\RecipeIngredientSystem.PL\RecipeIngredientSystem.DAL\bin\Debug\RecipeIngredientSystem.Entities.dll
+F:\Capgemini\SPRINT1\Final Project\FinalProjectWithComments\RecipeIngredientShoppingSystem\RecipeIngredientSystem.PL\RecipeIngredientSystem.DAL\bin\Debug\RecipeIngredientSystem.Exceptions.dll
+F:\Capgemini\SPRINT1\Final Project\FinalProjectWithComments\RecipeIngredientShoppingSystem\RecipeIngredientSystem.PL\RecipeIngredientSystem.DAL\bin\Debug\System.Configuration.ConfigurationManager.dll
+F:\Capgemini\SPRINT1\Final Project\FinalProjectWithComments\RecipeIngredientShoppingSystem\RecipeIngredientSystem.PL\RecipeIngredientSystem.DAL\bin\Debug\System.Security.AccessControl.dll
+F:\Capgemini\SPRINT1\Final Project\FinalProjectWithComments\RecipeIngredientShoppingSystem\RecipeIngredientSystem.PL\RecipeIngredientSystem.DAL\bin\Debug\System.Security.Permissions.dll
+F:\Capgemini\SPRINT1\Final Project\FinalProjectWithComments\RecipeIngredientShoppingSystem\RecipeIngredientSystem.PL\RecipeIngredientSystem.DAL\bin\Debug\System.Security.Principal.Windows.dll
+F:\Capgemini\SPRINT1\Final Project\FinalProjectWithComments\RecipeIngredientShoppingSystem\RecipeIngredientSystem.PL\RecipeIngredientSystem.DAL\bin\Debug\RecipeIngredientSystem.Entities.pdb
+F:\Capgemini\SPRINT1\Final Project\FinalProjectWithComments\RecipeIngredientShoppingSystem\RecipeIngredientSystem.PL\RecipeIngredientSystem.DAL\bin\Debug\RecipeIngredientSystem.Exceptions.pdb
+F:\Capgemini\SPRINT1\Final Project\FinalProjectWithComments\RecipeIngredientShoppingSystem\RecipeIngredientSystem.PL\RecipeIngredientSystem.DAL\bin\Debug\System.Configuration.ConfigurationManager.xml
+F:\Capgemini\SPRINT1\Final Project\FinalProjectWithComments\RecipeIngredientShoppingSystem\RecipeIngredientSystem.PL\RecipeIngredientSystem.DAL\bin\Debug\System.Security.AccessControl.xml
+F:\Capgemini\SPRINT1\Final Project\FinalProjectWithComments\RecipeIngredientShoppingSystem\RecipeIngredientSystem.PL\RecipeIngredientSystem.DAL\bin\Debug\System.Security.Permissions.xml
+F:\Capgemini\SPRINT1\Final Project\FinalProjectWithComments\RecipeIngredientShoppingSystem\RecipeIngredientSystem.PL\RecipeIngredientSystem.DAL\bin\Debug\System.Security.Principal.Windows.xml
+F:\Capgemini\SPRINT1\Final Project\FinalProjectWithComments\RecipeIngredientShoppingSystem\RecipeIngredientSystem.PL\RecipeIngredientSystem.DAL\obj\Debug\RecipeIngredientSystem.DAL.csprojAssemblyReference.cache
+F:\Capgemini\SPRINT1\Final Project\FinalProjectWithComments\RecipeIngredientShoppingSystem\RecipeIngredientSystem.PL\RecipeIngredientSystem.DAL\obj\Debug\RecipeIngredientSystem.DAL.csproj.CoreCompileInputs.cache
+F:\Capgemini\SPRINT1\Final Project\FinalProjectWithComments\RecipeIngredientShoppingSystem\RecipeIngredientSystem.PL\RecipeIngredientSystem.DAL\obj\Debug\RecipeIngredientSystem.DAL.csproj.CopyComplete
+F:\Capgemini\SPRINT1\Final Project\FinalProjectWithComments\RecipeIngredientShoppingSystem\RecipeIngredientSystem.PL\RecipeIngredientSystem.DAL\obj\Debug\RecipeIngredientSystem.DAL.dll
+F:\Capgemini\SPRINT1\Final Project\FinalProjectWithComments\RecipeIngredientShoppingSystem\RecipeIngredientSystem.PL\RecipeIngredientSystem.DAL\obj\Debug\RecipeIngredientSystem.DAL.pdb

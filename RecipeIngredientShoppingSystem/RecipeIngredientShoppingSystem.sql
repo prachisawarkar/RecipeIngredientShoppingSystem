@@ -1,5 +1,5 @@
 --database name
-use Sprint1
+use Sprint1_RIMS
 Go
 
 ---drop queries---
@@ -80,7 +80,6 @@ create table Cart
 	Amount decimal(18,2)
 );
 
-insert into Cart values(1, 1, 2, 30 );
 --alter table query to add check constraint
 alter table Cart
 add Check(IngredientQuantity >= 1);
@@ -113,7 +112,6 @@ create table Shipping
 (
 	ShippingNumber int PRIMARY KEY identity(1, 1),
 	OrderId int FOREIGN KEY REFERENCES OrderIngredient(OrderId) not null,
-	CustomerId int FOREIGN KEY REFERENCES Customer(CustomerId),
 	ExpectedDeliveryDate datetime not null
 );
 
@@ -136,53 +134,6 @@ select * from Recipe
 Go
 select * from Customer
 Go
-
-
------- TRIGGERS-------------------------------------->
------------------------------------------------------------------------->
-
--- trigger to enter details into shipping table and delete previous carts from cart table
-
-CREATE TRIGGER AfterInsertInOrderIngredient
-on OrderIngredient
-AFTER INSERT 
-AS 
-BEGIN
-
-	SET NOCOUNT ON;
-
-	declare @expected_date date;
-	set @expected_date = dateadd(DD, 5, getdate()); 
-
-	INSERT INTO shipping (
-		 OrderId,
-		 CustomerId,
-		 ExpectedDeliveryDate
-	 )
-	select
-		 i.OrderId,
-		 i.CustomerId,
-		 @expected_date
-	FROM
-		inserted As i
-
-	DELETE c FROM cart c INNER JOIN inserted i on i.CustomerId = c.CustomerID;
-END
-
-insert into OrderIngredient values(2, '2020-2-2', '999999999', 'aa', 1220, 1, 12222);
-
-
-	 
-
-
-
-
-
-
-
-
-
-
 
 ------ STORED PROCEDURE FOR ADMIN-------------------------------------->
 ------------------------------------------------------------------------>
